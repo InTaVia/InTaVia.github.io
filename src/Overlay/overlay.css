@@ -1,0 +1,15 @@
+.container {
+  display: grid;
+  grid-template-columns: 20vw min-content;
+  grid-gap: 5px;
+  background-color: #8cffa0;
+  padding: 10px;
+}
+
+.container > div:nth-child(2):not(:empty) {
+  width: 100px;
+}
+
+.container > div {
+  background-color: #c0c0c0;
+}

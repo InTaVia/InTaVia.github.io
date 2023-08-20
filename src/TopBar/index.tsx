@@ -15,7 +15,7 @@ import {
   // Search as SearchIcon,
   CloudUpload,
   Description,
-  GitHub
+  GitHub,
 } from "@material-ui/icons";
 
 import { useStyles } from "./style";
@@ -43,7 +43,7 @@ export function TopBar(props: Props) {
           <MenuIcon />
         </IconButton>
         <Typography variant="h6" noWrap className={classes.title}>
-          ML4VIS
+          VBS4DH
         </Typography>
 
         <div className={classes.sectionDesktop}>
@@ -51,28 +51,46 @@ export function TopBar(props: Props) {
             edge="end"
             aria-label="link to arxiv paper"
             aria-haspopup="true"
-            onClick={()=>window.open("https://arxiv.org/abs/2012.00467")}
+            onClick={() => window.open("https://arxiv.org/abs/2012.00467")}
             color="inherit"
           >
-            <Description /> <span style={{fontSize: '12px'}} className={classes.iconName}>{' '}Preprint </span>
+            <Description />{" "}
+            <span style={{ fontSize: "12px" }} className={classes.iconName}>
+              {" "}
+              Preprint{" "}
+            </span>
           </IconButton>
           <IconButton
             edge="end"
             aria-label="link to github homepage"
             aria-haspopup="true"
-            onClick={()=>window.open("https://github.com/ML4VIS/ML4VIS.github.io")}
+            onClick={() =>
+              window.open("https://github.com/ML4VIS/ML4VIS.github.io")
+            }
             color="inherit"
           >
-            <GitHub /> <span style={{fontSize: '12px'}} className={classes.iconName}>{' '}Github </span>
+            <GitHub />{" "}
+            <span style={{ fontSize: "12px" }} className={classes.iconName}>
+              {" "}
+              Github{" "}
+            </span>
           </IconButton>
           <IconButton
             edge="end"
             aria-label="suggest new ML4VIS papers for this survey"
             aria-haspopup="true"
-            onClick={()=>window.open("https://github.com/ML4VIS/ML4VIS.github.io/issues/new?assignees=&labels=enhancement&template=suggest-new-ml4vis-papers.md&title=Suggest+Paper%3A+%5Bpaper+title%5D")}
+            onClick={() =>
+              window.open(
+                "https://github.com/ML4VIS/ML4VIS.github.io/issues/new?assignees=&labels=enhancement&template=suggest-new-ml4vis-papers.md&title=Suggest+Paper%3A+%5Bpaper+title%5D"
+              )
+            }
             color="inherit"
           >
-            <CloudUpload />  <span style={{fontSize: '12px'}} className={classes.iconName}> {' '}Contribute </span>
+            <CloudUpload />{" "}
+            <span style={{ fontSize: "12px" }} className={classes.iconName}>
+              {" "}
+              Contribute{" "}
+            </span>
           </IconButton>
         </div>
       </Toolbar>

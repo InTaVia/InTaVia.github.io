@@ -32,7 +32,7 @@ module.exports = {
             verbose: true
         }),
         new HtmlWebpackPlugin({
-            title: 'ML4VIS',
+            title: 'VBS4DH',
             filename: `index.html`,
             template: path.resolve(__dirname, `./src/index.html`),
             chunks: ['index'],

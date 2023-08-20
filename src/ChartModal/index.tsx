@@ -252,7 +252,7 @@ export function ChartModal(props: Props) {
         },
         series: [
             {
-            name: 'ml4vis',
+            name: 'vbs4dh',
             type: 'heatmap',
             data: matrix,
             label: {

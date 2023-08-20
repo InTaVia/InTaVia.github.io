@@ -1,0 +1,141 @@
+import React from "react";
+import {
+  Grid,
+  Paper,
+  Card,
+  Button,
+  CardActions,
+  Avatar,
+  Chip,
+  CardContent,
+  Typography,
+} from "@material-ui/core";
+import AvatarGroup from "@material-ui/lab/AvatarGroup";
+import { Paper as TPaper, dimensions, getAvatar, rows } from "../index";
+import { useStyles } from "./style";
+import { useStyles as useStylesPaper } from "../Papers/style";
+import CardMedia from "@mui/material/CardMedia";
+import Box from "@mui/material/Box";
+import Modal from "@mui/material/Modal";
+
+interface Props {
+  paper: TPaper;
+  onClose: () => void;
+}
+
+export function Overlay(props: Props) {
+  const { paper, onClose } = props;
+
+  const [open, setOpen] = React.useState<boolean>(paper !== null);
+
+  const classes = useStyles();
+  const paperClasses = useStylesPaper();
+  const onClickPaper = (paper: TPaper) => {
+    window.open(
+      paper.url ||
+        `https://www.google.com/search?q=${paper.name.replace(" ", "+")}`,
+      "_blank"
+    );
+  };
+
+  return (
+    <Modal
+      open={open}
+      onClose={() => {
+        if (onClose) {
+          onClose();
+        }
+        setOpen(false);
+      }}
+      aria-labelledby="modal-modal-title"
+      aria-describedby="modal-modal-description"
+    >
+      <Box sx={{ boxshadow: 24, p: 4 }} className={classes.overlay}>
+        <Typography id="modal-modal-title" variant="h6" component="h2">
+          {paper["Name/Title"]}
+        </Typography>
+        <Typography>{paper.Authors}</Typography>
+        <Typography>{paper.Venue}</Typography>
+        <div
+          style={{
+            display: "grid",
+            gridTemplateColumns: "20vw 20vw",
+            /* gridTemplateRows: "200px", */
+            gap: "15px",
+          }}
+        >
+          {paper.Image && (
+            <img
+              src={`assets/images/${paper.Image}`}
+              style={{ width: "100%" }}
+            />
+          )}
+          {paper.Description && paper.Description !== "None" && (
+            <Typography className={classes.description}>
+              {paper.Description}
+            </Typography>
+          )}
+          {paper.Abstract && paper.Abstract !== "None" && (
+            <Typography className={classes.description}>
+              {paper.Abstract}
+            </Typography>
+          )}
+        </div>
+        <div className={paperClasses.tags}>
+          {rows.upper.map((dimension) => {
+            return (
+              <div>
+                <b>{dimension}</b>
+                <div>
+                  {paper[dimension].map((cat) => {
+                    return (
+                      <Chip
+                        style={{ marginTop: "2px" }}
+                        key={`${dimension}:${cat}`}
+                        avatar={
+                          <Avatar style={{ color: "white" }}>
+                            <b>{getAvatar(cat)}</b>
+                          </Avatar>
+                        }
+                        label={`${cat[0].toUpperCase()}${cat.slice(1)}`}
+                        variant={"default"}
+                        color="primary"
+                      />
+                    );
+                  })}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+        <div className={paperClasses.tags}>
+          {rows.lower.map((dimension) => {
+            return (
+              <div>
+                <b>{dimension}</b>
+                <div>
+                  {paper[dimension].map((cat) => {
+                    return (
+                      <Chip
+                        style={{ marginTop: "2px" }}
+                        key={`${dimension}:${cat}`}
+                        avatar={
+                          <Avatar style={{ color: "white" }}>
+                            <b>{getAvatar(cat)}</b>
+                          </Avatar>
+                        }
+                        label={`${cat[0].toUpperCase()}${cat.slice(1)}`}
+                        variant={"default"}
+                        color="secondary"
+                      />
+                    );
+                  })}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </Box>
+    </Modal>
+  );
+}
