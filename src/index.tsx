@@ -91,6 +91,7 @@ export const dimensions = {
     "Set",
     "Graph",
     "Chart",
+    "Rendering",
     "Interaction",
   ],
   "Story Thread": [
@@ -105,7 +106,6 @@ export const dimensions = {
     "Visualization Legend",
     "Visualization Annotations",
     "Coordinated Scrolling",
-    "Other",
   ],
   "VBS Composition": [
     "Rich Media Without Visualization",
@@ -178,7 +178,7 @@ export const dimensions = {
     "Fictitious Elements",
     "Fictitious Story World",
   ],
-  Other: ["Gamification Elements", "Other Notable Elements"],
+  Other: ["Gamification Elements"],
 };
 
 export default function App() {

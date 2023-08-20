@@ -49,6 +49,7 @@ dimensions = {
     'Set',  
     'Graph',    
     'Chart',    
+    'Rendering',    
     'Interaction',],
 'Story Thread': 
     ['Text',
@@ -57,7 +58,7 @@ dimensions = {
     'Temporal Succession',
     'Moving Camera'],
 'Visualization-text Linking': 
-    ['In-text References','Visualization Legend','Visualization Annotations','Coordinated Scrolling','Other'],
+    ['In-text References','Visualization Legend','Visualization Annotations','Coordinated Scrolling'],
 'VBS Composition':
     ['Rich Media Without Visualization','Timeline Visualization','Multi-timeline Visualization','Narrative Pathway','Mixed Pathway & Exploration', 'Stories With Multiple Visualizations','Pathways Through Multiple Visualizations'],
 'Interactive Implementation':
@@ -79,7 +80,7 @@ dimensions = {
 'Factuality':
     ['Factuality','Uncertainty', 'Fictitious Elements', 'Fictitious Story World'],
 'Other':
-    ['Gamification Elements', 'Other Notable Elements']
+    ['Gamification Elements']
 }
 
 groupedDimensions = [
@@ -93,6 +94,7 @@ groupedDimensions = [
 'Visualization Types:Set',
 'Visualization Types:Graph',
 'Visualization Types:Chart',
+'Visualization Types:Rendering',
 'Visualization Types:Interaction',
 'Story Thread:Text',
 'Story Thread:Speech',
@@ -103,7 +105,6 @@ groupedDimensions = [
 'Visualization-text Linking:Visualization Legend',
 'Visualization-text Linking:Visualization Annotations',
 'Visualization-text Linking:Coordinated Scrolling',
-'Visualization-text Linking:Other',
 'VBS Composition:Rich Media Without Visualization',
 'VBS Composition:Timeline Visualization',
 'VBS Composition:Multi-timeline Visualization',
@@ -165,8 +166,7 @@ groupedDimensions = [
 'Factuality:Uncertainty',
 'Factuality:Fictitious Elements',
 'Factuality:Fictitious Story World',
-'Other:Gamification Elements',
-'Other:Other Notable Elements'
+'Other:Gamification Elements'
 ]
 
 reverseDimensions = {}
@@ -212,7 +212,7 @@ convertedFile.close()
 for idx, coded in coded_examples.iterrows():
     upperRowString = upperRowString + "\\"
     upperRowString = upperRowString + "hspace{0.5mm} "
-    upperRowString = upperRowString + coded["Name/Title"]
+    upperRowString = upperRowString + (coded["Name/Title"][:30] + "..." if len(coded["Name/Title"]) > 30 else coded["Name/Title"])
     upperRowString = upperRowString + " \\cite{"
     upperRowString = upperRowString + str(coded["Bibtex"])
     upperRowString = upperRowString + "} &\n"
@@ -239,7 +239,7 @@ convertedFile.close()
 for idx, coded in coded_examples.iterrows():
     lowerRowString = lowerRowString + "\\"
     lowerRowString = lowerRowString + "hspace{0.5mm} "
-    lowerRowString = lowerRowString + coded["Name/Title"]
+    lowerRowString = lowerRowString + (coded["Name/Title"][:30] + "..." if len(coded["Name/Title"]) > 30 else coded["Name/Title"])
     lowerRowString = lowerRowString + " \\cite{"
     lowerRowString = lowerRowString + str(coded["Bibtex"])
     lowerRowString = lowerRowString + "} &\n"

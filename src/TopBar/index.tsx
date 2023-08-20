@@ -44,7 +44,8 @@ export function TopBar(props: Props) {
           <MenuIcon />
         </IconButton>
         <Typography variant="h6" noWrap className={classes.title}>
-          VBS4DH
+          A Survey on Visualization-based Storytelling in Digital Humanities and
+          Cultural Heritage
         </Typography>
 
         <div className={classes.sectionDesktop}>
