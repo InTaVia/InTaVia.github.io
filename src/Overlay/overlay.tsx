@@ -11,7 +11,7 @@ import {
   Typography,
 } from "@material-ui/core";
 import AvatarGroup from "@material-ui/lab/AvatarGroup";
-import { Paper as TPaper, dimensions, getAvatar, rows } from "../index";
+import { Paper as TPaper, colors, dimensions, getAvatar, rows } from "../index";
 import { useStyles } from "./style";
 import { useStyles as useStylesPaper } from "../Papers/style";
 import CardMedia from "@mui/material/CardMedia";
@@ -90,16 +90,26 @@ export function Overlay(props: Props) {
                   {paper[dimension].map((cat) => {
                     return (
                       <Chip
-                        style={{ marginTop: "2px" }}
                         key={`${dimension}:${cat}`}
                         avatar={
-                          <Avatar style={{ color: "white" }}>
+                          <Avatar
+                            style={{
+                              color: "white",
+                              backgroundColor: colors[dimension],
+                            }}
+                          >
                             <b>{getAvatar(cat)}</b>
                           </Avatar>
                         }
                         label={`${cat[0].toUpperCase()}${cat.slice(1)}`}
                         variant={"default"}
-                        color="primary"
+                        style={{
+                          marginTop: "2px",
+                          color: "white",
+                          backgroundColor: colors[dimension]
+                            ?.replace("rgb", "rgba")
+                            .replace(")", ",0.8)"),
+                        }}
                       />
                     );
                   })}
@@ -117,16 +127,26 @@ export function Overlay(props: Props) {
                   {paper[dimension].map((cat) => {
                     return (
                       <Chip
-                        style={{ marginTop: "2px" }}
                         key={`${dimension}:${cat}`}
                         avatar={
-                          <Avatar style={{ color: "white" }}>
+                          <Avatar
+                            style={{
+                              color: "white",
+                              backgroundColor: colors[dimension],
+                            }}
+                          >
                             <b>{getAvatar(cat)}</b>
                           </Avatar>
                         }
                         label={`${cat[0].toUpperCase()}${cat.slice(1)}`}
                         variant={"default"}
-                        color="secondary"
+                        style={{
+                          marginTop: "2px",
+                          color: "white",
+                          backgroundColor: colors[dimension]
+                            ?.replace("rgb", "rgba")
+                            .replace(")", ",0.8)"),
+                        }}
                       />
                     );
                   })}

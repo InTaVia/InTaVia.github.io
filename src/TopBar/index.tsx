@@ -16,6 +16,7 @@ import {
   CloudUpload,
   Description,
   GitHub,
+  DeviceHub,
 } from "@material-ui/icons";
 
 import { useStyles } from "./style";
@@ -49,15 +50,15 @@ export function TopBar(props: Props) {
         <div className={classes.sectionDesktop}>
           <IconButton
             edge="end"
-            aria-label="link to arxiv paper"
+            aria-label="link to the design space"
             aria-haspopup="true"
-            onClick={() => window.open("https://arxiv.org/abs/2012.00467")}
+            onClick={() => open("/assets/Storytelling-Design-Space.png")}
             color="inherit"
           >
-            <Description />{" "}
+            <DeviceHub />{" "}
             <span style={{ fontSize: "12px" }} className={classes.iconName}>
               {" "}
-              Preprint{" "}
+              Design Space{" "}
             </span>
           </IconButton>
           <IconButton
@@ -65,7 +66,7 @@ export function TopBar(props: Props) {
             aria-label="link to github homepage"
             aria-haspopup="true"
             onClick={() =>
-              window.open("https://github.com/ML4VIS/ML4VIS.github.io")
+              window.open("https://github.com/InTaVia/InTaVia.github.io")
             }
             color="inherit"
           >
@@ -75,9 +76,9 @@ export function TopBar(props: Props) {
               Github{" "}
             </span>
           </IconButton>
-          <IconButton
+          {/* <IconButton
             edge="end"
-            aria-label="suggest new ML4VIS papers for this survey"
+            aria-label="suggest new VBS examples and tools for this survey"
             aria-haspopup="true"
             onClick={() =>
               window.open(
@@ -91,7 +92,7 @@ export function TopBar(props: Props) {
               {" "}
               Contribute{" "}
             </span>
-          </IconButton>
+          </IconButton> */}
         </div>
       </Toolbar>
     </AppBar>

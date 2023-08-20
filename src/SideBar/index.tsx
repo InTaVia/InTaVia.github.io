@@ -19,7 +19,7 @@ import {
   LaunchOutlined as LaunchIcon,
 } from "@material-ui/icons";
 import Select from "@material-ui/core/Select";
-import { dimensions, getAvatar, rows } from "../index";
+import { colors, dimensions, getAvatar, rows } from "../index";
 import { useStyles } from "./style";
 
 import { ChartModal, TPaperMatrix } from "../ChartModal";
@@ -121,12 +121,12 @@ export function SideBar(props: Props) {
         />
       </div>
 
-      <Divider />
+      {/* <Divider />
       <ChartModal
         paperYear={paperYear}
         paperArea={paperArea}
         paperMatrix={paperMatrix}
-      />
+      /> */}
       <Divider />
 
       {/*  <Typography variant="subtitle2" className={classes.filterTitle}>
@@ -210,7 +210,12 @@ export function SideBar(props: Props) {
                       <Chip
                         key={m}
                         avatar={
-                          <Avatar style={{ color: "white" }}>
+                          <Avatar
+                            style={{
+                              color: "white",
+                              backgroundColor: colors[dimension],
+                            }}
+                          >
                             <b>{getAvatar(mCleared)}</b>
                           </Avatar>
                         }
@@ -218,9 +223,15 @@ export function SideBar(props: Props) {
                           1
                         )}`}
                         clickable
-                        variant={checked ? "default" : "outlined"}
-                        color="primary"
                         onClick={() => onClickFilter(`${m}`, "UpperRow")}
+                        style={{
+                          backgroundColor: checked
+                            ? colors[dimension]
+                                ?.replace("rgb", "rgba")
+                                .replace(")", ",0.8)")
+                            : "white",
+                        }}
+                        variant={checked ? "default" : "outlined"}
                       />
                     );
                   })}
@@ -281,7 +292,12 @@ export function SideBar(props: Props) {
                       <Chip
                         key={m}
                         avatar={
-                          <Avatar style={{ color: "white" }}>
+                          <Avatar
+                            style={{
+                              color: "white",
+                              backgroundColor: colors[dimension],
+                            }}
+                          >
                             <b>{getAvatar(mCleared)}</b>
                           </Avatar>
                         }
@@ -290,7 +306,13 @@ export function SideBar(props: Props) {
                         )}`}
                         clickable
                         variant={checked ? "default" : "outlined"}
-                        color="secondary"
+                        style={{
+                          backgroundColor: checked
+                            ? colors[dimension]
+                                ?.replace("rgb", "rgba")
+                                .replace(")", ",0.8)")
+                            : "white",
+                        }}
                         onClick={() => {
                           onClickFilter(`${m}`, "LowerRow");
                         }}
@@ -339,24 +361,6 @@ export function SideBar(props: Props) {
       <Divider /> */}
       {/* <FormControl required className={classes.formControl}>
     <InputLabel>Version</InputLabel> */}
-      <Typography variant="subtitle2" className={classes.filterTitle}>
-        Select a version:
-        <Select
-          native
-          value={props.version}
-          onChange={(e: React.ChangeEvent<{ value: string }>) =>
-            props.onSetVersion(e.target.value)
-          }
-          style={{ marginLeft: "10px" }}
-          name="version"
-          inputProps={{
-            id: "version-required",
-          }}
-        >
-          <option value={"survey"}> ML4VIS Survey 2020</option>
-          <option value={"latest"}> Latest</option>
-        </Select>
-      </Typography>
       {/* </FormControl> */}
 
       <Divider />

@@ -65,6 +65,24 @@ export const rows = {
   ],
 };
 
+export const colors = {
+  "Media Types": "rgb(226,91,74)",
+  "Visualization Types": "rgb(246,197,70)",
+  "Story Thread": "rgb(197,102,202)",
+  "Visualization-text Linking": "rgb(241,157,54)",
+  "VBS Composition": "rgb(136,110,85)",
+  "Interactive Implementation": "rgb(236,94,43)",
+  "Target Devices": "rgb(211,28,83)",
+  "Entity-orientation": "rgb(37,143,235)",
+  "Story Complexity": "rgb(52,145,132)",
+  "Story Schemata": "rgb(89,114,129)",
+  "Plot Patterns": "rgb(75,94,181)",
+  "Story Arc & Hook": "rgb(88,167,69)",
+  Linearity: "rgb(63,182,206)",
+  Factuality: "rgb(210,221,92)",
+  Other: "rgb(157,157,157)",
+};
+
 export const dimensions = {
   "Media Types": ["Audio", "Text", "Images", "Film", "Visualization"],
   "Visualization Types": [

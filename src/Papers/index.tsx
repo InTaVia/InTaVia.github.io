@@ -11,7 +11,7 @@ import {
   Typography,
 } from "@material-ui/core";
 import AvatarGroup from "@material-ui/lab/AvatarGroup";
-import { Paper as TPaper, getAvatar, rows } from "../index";
+import { Paper as TPaper, colors, getAvatar, rows } from "../index";
 import { useStyles } from "./style";
 import CardMedia from "@mui/material/CardMedia";
 
@@ -88,7 +88,14 @@ export function Papers(props: Props) {
                     <AvatarGroup className={classes.avatarGroup}>
                       {rows["upper"].flatMap((group) => {
                         return paper[group].map((v) => (
-                          <Avatar key={v} className={classes.VISTag}>
+                          <Avatar
+                            key={v}
+                            className={classes.VISTag}
+                            style={{
+                              color: "white",
+                              backgroundColor: colors[group],
+                            }}
+                          >
                             {getAvatar(v)}
                           </Avatar>
                         ));
@@ -102,7 +109,14 @@ export function Papers(props: Props) {
                       ))} */}
                       {rows["lower"].flatMap((group) => {
                         return paper[group].map((v) => (
-                          <Avatar key={v} className={classes.MLTag}>
+                          <Avatar
+                            key={v}
+                            className={classes.MLTag}
+                            style={{
+                              color: "white",
+                              backgroundColor: colors[group],
+                            }}
+                          >
                             {getAvatar(v)}
                           </Avatar>
                         ));
