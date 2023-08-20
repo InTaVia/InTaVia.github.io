@@ -19,11 +19,7 @@ jobs:
           node-version: '14.x'
       - name: Test Build
         run: |
-          if [ -e package-lock.json ]; then
-          npm ci
-          else
-          npm i --force
-          fi
+          npm i --legacy-peer-deps
           npm run build
   build-and-deploy:
     if: github.event_name != 'pull_request'
@@ -38,11 +34,7 @@ jobs:
 
       - name: build
         run: |
-          if [ -e package-lock.json ]; then
-          npm ci
-          else
-          npm i --force
-          fi
+          npm i --legacy-peer-deps
           npm run build
 
       - name: Deploy 🚀
