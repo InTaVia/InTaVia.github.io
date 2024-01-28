@@ -66,22 +66,40 @@ export const rows = {
 };
 
 export const colors = {
-  "Media Types": "rgb(226,91,74)",
-  "Visualization Types": "rgb(246,197,70)",
-  "Story Thread": "rgb(197,102,202)",
-  "Visualization-text Linking": "rgb(241,157,54)",
-  "VBS Composition": "rgb(136,110,85)",
-  "Interactive Implementation": "rgb(236,94,43)",
-  "Target Devices": "rgb(211,28,83)",
-  "Entity-orientation": "rgb(37,143,235)",
-  "Story Complexity": "rgb(52,145,132)",
-  "Story Schemata": "rgb(89,114,129)",
-  "Plot Patterns": "rgb(75,94,181)",
-  "Story Arc & Hook": "rgb(88,167,69)",
-  Linearity: "rgb(63,182,206)",
-  Factuality: "rgb(210,221,92)",
+  "Media Types": "rgb(204, 114, 0)",
+  "Visualization Types": "rgb(202, 95, 2)",
+  "Story Thread": "rgb(206, 63, 0)",
+  "Visualization-text Linking": "rgb(184, 92, 0)",
+  "VBS Composition": "rgb(255, 142, 31)",
+  "Interactive Implementation": "rgb(173, 77, 0)",
+  "Target Devices": "rgb(216, 96, 0)",
+  "Entity-orientation": "rgb(36, 128, 205)",
+  "Story Complexity": "rgb(49, 106, 147)",
+  "Story Schemata": "rgb(38, 101, 134)",
+  "Plot Patterns": "rgb(30, 84, 122)",
+  "Story Arc & Hook": "rgb(23, 66, 104)",
+  Linearity: "rgb(17, 51, 86)",
+  Factuality: "rgb(10, 37, 68)",
   Other: "rgb(157,157,157)",
 };
+
+/*
+rgb(204, 114, 0)
+rgb(202, 95, 2)
+rgb(206, 63, 0)
+rgb(184, 92, 0)
+rgb(255, 142, 31)
+rgb(173, 77, 0)
+rgb(216, 96, 0)
+rgb(36, 128, 205)
+rgb(49, 106, 147)
+rgb(38, 101, 134)
+rgb(30, 84, 122)
+rgb(23, 66, 104)
+rgb(17, 51, 86)
+rgb(10, 37, 68)
+rgb(157,157,157)
+*/
 
 export const dimensions = {
   "Media Types": ["Audio", "Text", "Images", "Film", "Visualization"],
@@ -217,6 +235,8 @@ export default function App() {
     const papers = await fetch(`/assets/${version}.json`).then((res) =>
       res.json()
     );
+    console.log("papers", papers);
+
     setPapers(papers);
     const initialVISTag = [];
 

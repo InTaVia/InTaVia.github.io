@@ -13,6 +13,21 @@
 	 &  & \checkmarkicon &  &  &  &  & 
 	% Target Devices
 	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
+\hspace{0.5mm} An Infamous Day \cite{AnInfamousDay} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	 & \checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon & 
+	% Story Thread
+	\checkmarkicon &  &  & \checkmarkicon & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
+	% VBS Composition
+	 &  &  &  &  &  & \checkmarkicon & 
+	% Interactive Implementation
+	 &  & \checkmarkicon &  &  & \checkmarkicon &  & 
+	% Target Devices
+	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
 \hspace{0.5mm} Archaeology of Wine \cite{ArchaeologyOfWine} &
 	% Media Types
 	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
@@ -26,6 +41,81 @@
 	 & \checkmarkicon &  &  & \checkmarkicon & \checkmarkicon &  & 
 	% Interactive Implementation
 	 &  &  &  & \checkmarkicon &  &  & 
+	% Target Devices
+	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
+\hspace{0.5mm} Are men singing higher in pop ... \cite{MenSinging} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	\checkmarkicon &  &  &  & \checkmarkicon &  &  & 
+	% Story Thread
+	\checkmarkicon & \checkmarkicon &  & \checkmarkicon &  & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  &  & 
+	% VBS Composition
+	 & \checkmarkicon &  &  &  &  &  & 
+	% Interactive Implementation
+	 &  &  &  & \checkmarkicon &  &  & 
+	% Target Devices
+	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
+\hspace{0.5mm} Around the Globe with Reinhold... \cite{AroundtheGlobe} &
+	% Media Types
+	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% Visualization Types
+	\checkmarkicon & \checkmarkicon &  &  &  & \checkmarkicon & \checkmarkicon & 
+	% Story Thread
+	\checkmarkicon &  &  &  & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  & \checkmarkicon & 
+	% VBS Composition
+	 &  &  &  &  &  & \checkmarkicon & 
+	% Interactive Implementation
+	 &  &  &  &  &  & \checkmarkicon & 
+	% Target Devices
+	 &  & \checkmarkicon &  &  &  &  \\ 
+\hspace{0.5mm} Daily Life In The Middle Ages \cite{DailyLifeInTheMiddleAges} &
+	% Media Types
+	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% Visualization Types
+	 &  &  &  &  & \checkmarkicon & \checkmarkicon & 
+	% Story Thread
+	\checkmarkicon &  &  &  &  & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  &  & 
+	% VBS Composition
+	 &  &  &  & \checkmarkicon &  &  & 
+	% Interactive Implementation
+	 &  & \checkmarkicon &  &  &  &  & 
+	% Target Devices
+	 & \checkmarkicon &  &  &  &  &  \\ 
+\hspace{0.5mm} Dante's Inferno \cite{DantesInferno} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	 & \checkmarkicon &  &  &  & \checkmarkicon & \checkmarkicon & 
+	% Story Thread
+	\checkmarkicon &  &  &  & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
+	% VBS Composition
+	 &  &  &  &  &  & \checkmarkicon & 
+	% Interactive Implementation
+	 &  & \checkmarkicon &  &  & \checkmarkicon &  & 
+	% Target Devices
+	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
+\hspace{0.5mm} Game of Throne Arya's Jouney \cite{GameofThrone} &
+	% Media Types
+	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	 & \checkmarkicon &  &  &  &  & \checkmarkicon & 
+	% Story Thread
+	\checkmarkicon &  &  &  & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon &  & \checkmarkicon &  & 
+	% VBS Composition
+	 &  &  & \checkmarkicon &  &  &  & 
+	% Interactive Implementation
+	 &  &  &  &  &  & \checkmarkicon & 
 	% Target Devices
 	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
 \hspace{0.5mm} History of Whitney Houston \cite{whitneyHouston} &
@@ -58,124 +148,19 @@
 	 &  &  &  &  &  & \checkmarkicon & 
 	% Target Devices
 	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} Major Battles in the Napoleoni... \cite{MajorBattlesintheNapoleonicWars} &
+\hspace{0.5mm} How You Play Spades is How You... \cite{HowYouPlaySpadesisHowYouPlayLife} &
 	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	 & \checkmarkicon &  &  & \checkmarkicon & 
 	% Visualization Types
-	\checkmarkicon & \checkmarkicon &  &  &  &  & \checkmarkicon & 
+	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon &  &  & 
 	% Story Thread
-	 &  &  &  &  & 
+	\checkmarkicon &  & \checkmarkicon &  &  & 
 	% Visualization-text Linking
 	\checkmarkicon &  & \checkmarkicon &  & 
 	% VBS Composition
-	 &  &  &  &  &  & \checkmarkicon & 
-	% Interactive Implementation
-	 &  &  &  & \checkmarkicon &  &  & 
-	% Target Devices
-	 & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} Medieval Philosophers \cite{MedievalPhilosophers} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon &  &  &  &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  &  &  &  & 
-	% Visualization-text Linking
-	 &  &  & \checkmarkicon & 
-	% VBS Composition
-	 & \checkmarkicon &  & \checkmarkicon &  &  &  & 
-	% Interactive Implementation
-	 &  &  &  &  &  & \checkmarkicon & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} The Life of Mary Kearn \cite{TheLifeofMaryKearn} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon &  &  &  &  &  & \checkmarkicon & 
-	% Story Thread
-	 &  & \checkmarkicon &  &  & 
-	% Visualization-text Linking
-	\checkmarkicon & \checkmarkicon &  &  & 
-	% VBS Composition
-	 & \checkmarkicon &  &  &  &  &  & 
-	% Interactive Implementation
 	 &  &  &  &  & \checkmarkicon &  & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} The Garden of Earthly Hieronym... \cite{HieronymusBosch} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  &  & 
-	% Visualization Types
-	 &  &  &  &  &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  &  &  & \checkmarkicon & 
-	% Visualization-text Linking
-	\checkmarkicon &  &  & \checkmarkicon & 
-	% VBS Composition
-	 &  &  & \checkmarkicon &  &  &  & 
 	% Interactive Implementation
-	 &  &  &  &  &  & \checkmarkicon & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} An Infamous Day \cite{AnInfamousDay} &
-	% Media Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	 & \checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  &  & \checkmarkicon & \checkmarkicon & 
-	% Visualization-text Linking
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
-	% VBS Composition
-	 &  &  &  &  &  & \checkmarkicon & 
-	% Interactive Implementation
-	 &  & \checkmarkicon &  &  & \checkmarkicon &  & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} Around the Globe with Reinhold... \cite{AroundtheGlobe} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon &  &  &  & \checkmarkicon & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  &  &  & \checkmarkicon & 
-	% Visualization-text Linking
-	\checkmarkicon &  &  & \checkmarkicon & 
-	% VBS Composition
-	 &  &  &  &  &  & \checkmarkicon & 
-	% Interactive Implementation
-	 &  &  &  &  &  & \checkmarkicon & 
-	% Target Devices
-	 &  & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} Dante's Inferno \cite{DantesInferno} &
-	% Media Types
-	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	 & \checkmarkicon &  &  &  & \checkmarkicon & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  &  &  & \checkmarkicon & 
-	% Visualization-text Linking
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
-	% VBS Composition
-	 &  &  &  &  &  & \checkmarkicon & 
-	% Interactive Implementation
-	 &  & \checkmarkicon &  &  & \checkmarkicon &  & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} Game of Throne Arya's Jouney \cite{GameofThrone} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	 & \checkmarkicon &  &  &  &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  &  &  & \checkmarkicon & 
-	% Visualization-text Linking
-	\checkmarkicon &  & \checkmarkicon &  & 
-	% VBS Composition
-	 &  &  & \checkmarkicon &  &  &  & 
-	% Interactive Implementation
-	 &  &  &  &  &  & \checkmarkicon & 
+	 &  & \checkmarkicon &  &  &  &  & 
 	% Target Devices
 	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
 \hspace{0.5mm} January 1969: Mapping the Sit-... \cite{January1969} &
@@ -208,6 +193,36 @@
 	 &  & \checkmarkicon &  &  &  &  & 
 	% Target Devices
 	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
+\hspace{0.5mm} Kosmos Kaffee \cite{KosmosKaffee} &
+	% Media Types
+	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% Visualization Types
+	 &  &  &  &  & \checkmarkicon & \checkmarkicon & 
+	% Story Thread
+	 &  &  & \checkmarkicon &  & 
+	% Visualization-text Linking
+	 & \checkmarkicon & \checkmarkicon &  & 
+	% VBS Composition
+	\checkmarkicon &  &  &  &  &  &  & 
+	% Interactive Implementation
+	 &  &  & \checkmarkicon &  &  &  & 
+	% Target Devices
+	 &  & \checkmarkicon &  &  &  & \checkmarkicon \\ 
+\hspace{0.5mm} Major Battles in the Napoleoni... \cite{MajorBattlesintheNapoleonicWars} &
+	% Media Types
+	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% Visualization Types
+	\checkmarkicon & \checkmarkicon &  &  &  &  & \checkmarkicon & 
+	% Story Thread
+	 &  &  &  &  & 
+	% Visualization-text Linking
+	\checkmarkicon &  & \checkmarkicon &  & 
+	% VBS Composition
+	 &  &  &  &  &  & \checkmarkicon & 
+	% Interactive Implementation
+	 &  &  &  & \checkmarkicon &  &  & 
+	% Target Devices
+	 & \checkmarkicon &  &  &  &  &  \\ 
 \hspace{0.5mm} Map Shows How Humans Migrated ... \cite{MapShowsHowHumansMigratedAcrossTheGlobe} &
 	% Media Types
 	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
@@ -253,6 +268,21 @@
 	 &  &  &  &  &  &  & 
 	% Target Devices
 	 & \checkmarkicon &  &  &  &  &  \\ 
+\hspace{0.5mm} Medieval Philosophers \cite{MedievalPhilosophers} &
+	% Media Types
+	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% Visualization Types
+	\checkmarkicon & \checkmarkicon &  &  &  &  & \checkmarkicon & 
+	% Story Thread
+	\checkmarkicon &  &  &  &  & 
+	% Visualization-text Linking
+	 &  &  & \checkmarkicon & 
+	% VBS Composition
+	 & \checkmarkicon &  & \checkmarkicon &  &  &  & 
+	% Interactive Implementation
+	 &  &  &  &  &  & \checkmarkicon & 
+	% Target Devices
+	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
 \hspace{0.5mm} Mercator: It’s a flat, flat wo... \cite{mercator} &
 	% Media Types
 	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
@@ -268,6 +298,21 @@
 	 &  & \checkmarkicon &  &  & \checkmarkicon &  & 
 	% Target Devices
 	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
+\hspace{0.5mm} Miles Davis' Famous Albums \cite{kim2019} &
+	% Media Types
+	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% Visualization Types
+	 &  & \checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & 
+	% Story Thread
+	\checkmarkicon &  & \checkmarkicon &  &  & 
+	% Visualization-text Linking
+	 & \checkmarkicon & \checkmarkicon &  & 
+	% VBS Composition
+	 &  &  & \checkmarkicon &  & \checkmarkicon &  & 
+	% Interactive Implementation
+	 & \checkmarkicon &  &  &  &  &  & 
+	% Target Devices
+	\checkmarkicon &  &  &  &  &  &  \\ 
 \hspace{0.5mm} Objects of Wonder \cite{ObjectsofWonder} &
 	% Media Types
 	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
@@ -328,6 +373,21 @@
 	 &  &  &  &  &  & \checkmarkicon & 
 	% Target Devices
 	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
+\hspace{0.5mm} The Fallen of World War II \cite{theFallen} &
+	% Media Types
+	\checkmarkicon &  &  & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	\checkmarkicon &  & \checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & 
+	% Story Thread
+	 & \checkmarkicon &  &  & \checkmarkicon & 
+	% Visualization-text Linking
+	 &  &  &  & 
+	% VBS Composition
+	 &  &  &  &  &  & \checkmarkicon & 
+	% Interactive Implementation
+	 &  &  & \checkmarkicon &  &  &  & 
+	% Target Devices
+	 & \checkmarkicon &  &  &  &  &  \\ 
 \hspace{0.5mm} The Giant Squid: When Myth Enc... \cite{TheGiantSquid} &
 	% Media Types
 	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
@@ -343,6 +403,21 @@
 	 &  &  &  &  &  & \checkmarkicon & 
 	% Target Devices
 	 & \checkmarkicon &  &  &  &  &  \\ 
+\hspace{0.5mm} The Life of Mary Kearn \cite{TheLifeofMaryKearn} &
+	% Media Types
+	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% Visualization Types
+	\checkmarkicon &  &  &  &  &  & \checkmarkicon & 
+	% Story Thread
+	 &  & \checkmarkicon &  &  & 
+	% Visualization-text Linking
+	\checkmarkicon & \checkmarkicon &  &  & 
+	% VBS Composition
+	 & \checkmarkicon &  &  &  &  &  & 
+	% Interactive Implementation
+	 &  &  &  &  & \checkmarkicon &  & 
+	% Target Devices
+	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
 \hspace{0.5mm} The Travels of Marco Polo | Na... \cite{MarcoPolo} &
 	% Media Types
 	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
@@ -358,21 +433,6 @@
 	 &  & \checkmarkicon &  &  & \checkmarkicon &  & 
 	% Target Devices
 	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} The Whiskey Rebellion: An Inte... \cite{whiskeyRebellion} &
-	% Media Types
-	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon &  &  &  &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & 
-	% Visualization-text Linking
-	\checkmarkicon &  & \checkmarkicon &  & 
-	% VBS Composition
-	 & \checkmarkicon &  &  & \checkmarkicon & \checkmarkicon &  & 
-	% Interactive Implementation
-	\checkmarkicon &  &  &  &  &  &  & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  & \checkmarkicon \\ 
 \hspace{0.5mm} US Westward Expansion \cite{USWestwardExpansion} &
 	% Media Types
 	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
@@ -388,6 +448,21 @@
 	 &  &  &  &  &  & \checkmarkicon & 
 	% Target Devices
 	 & \checkmarkicon &  &  &  &  &  \\ 
+\hspace{0.5mm} Virtulleum, Tulln \cite{Virtulleum} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	 & \checkmarkicon &  &  &  & \checkmarkicon & \checkmarkicon & 
+	% Story Thread
+	\checkmarkicon & \checkmarkicon &  &  &  & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  &  & 
+	% VBS Composition
+	 &  &  & \checkmarkicon &  &  &  & 
+	% Interactive Implementation
+	 &  &  &  &  &  &  & 
+	% Target Devices
+	 &  & \checkmarkicon &  &  &  & \checkmarkicon \\ 
 \hspace{0.5mm} Visualization-based Scrollytel... \cite{MusEcologyScrollytelling} &
 	% Media Types
 	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
@@ -418,71 +493,11 @@
 	 &  & \checkmarkicon &  &  &  &  & 
 	% Target Devices
 	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} Miles Davis' Famous Albums \cite{kim2019} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Visualization Types
-	 &  & \checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon &  &  & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	 &  &  & \checkmarkicon &  & \checkmarkicon &  & 
-	% Interactive Implementation
-	 & \checkmarkicon &  &  &  &  &  & 
-	% Target Devices
-	\checkmarkicon &  &  &  &  &  &  \\ 
-\hspace{0.5mm} Are men singing higher in pop ... \cite{MenSinging} &
-	% Media Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon &  &  &  & \checkmarkicon &  &  & 
-	% Story Thread
-	\checkmarkicon & \checkmarkicon &  & \checkmarkicon &  & 
-	% Visualization-text Linking
-	\checkmarkicon &  &  &  & 
-	% VBS Composition
-	 & \checkmarkicon &  &  &  &  &  & 
-	% Interactive Implementation
-	 &  &  &  & \checkmarkicon &  &  & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} How You Play Spades is How You... \cite{HowYouPlaySpadesisHowYouPlayLife} &
-	% Media Types
-	 & \checkmarkicon &  &  & \checkmarkicon & 
-	% Visualization Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon &  &  & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon &  &  & 
-	% Visualization-text Linking
-	\checkmarkicon &  & \checkmarkicon &  & 
-	% VBS Composition
-	 &  &  &  &  & \checkmarkicon &  & 
-	% Interactive Implementation
-	 &  & \checkmarkicon &  &  &  &  & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} The Fallen of World War II \cite{theFallen} &
-	% Media Types
-	\checkmarkicon &  &  & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon &  & \checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	 & \checkmarkicon &  &  & \checkmarkicon & 
-	% Visualization-text Linking
-	 &  &  &  & 
-	% VBS Composition
-	 &  &  &  &  &  & \checkmarkicon & 
-	% Interactive Implementation
-	 &  &  & \checkmarkicon &  &  &  & 
-	% Target Devices
-	 & \checkmarkicon &  &  &  &  &  \\ 
 \hspace{0.5mm} Wonky \cite{Wonky} &
 	% Media Types
 	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
 	% Visualization Types
-	 &  &  &  &  &  & \checkmarkicon & 
+	 &  &  &  & \checkmarkicon &  & \checkmarkicon & 
 	% Story Thread
 	\checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & 
 	% Visualization-text Linking
@@ -493,513 +508,468 @@
 	 &  & \checkmarkicon &  &  &  &  & 
 	% Target Devices
 	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} Daily Life In The Middle Ages \cite{DailyLifeInTheMiddleAges} &
+\hspace{0.5mm} ArcGIS StoryMaps  \cite{nan} &
 	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
 	% Visualization Types
-	 &  &  &  &  & \checkmarkicon & \checkmarkicon & 
+	\checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
 	% Story Thread
-	\checkmarkicon &  &  &  &  & 
+	\checkmarkicon &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% VBS Composition
+	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
+	% Interactive Implementation
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
+	% Target Devices
+	\checkmarkicon &  &  &  &  &  &  \\ 
+\hspace{0.5mm} ChartAccent \cite{nan} &
+	% Media Types
+	\checkmarkicon &  & \checkmarkicon &  &  & 
+	% Visualization Types
+	 &  & \checkmarkicon &  &  & \checkmarkicon &  & 
+	% Story Thread
+	 & \checkmarkicon &  &  & \checkmarkicon & 
 	% Visualization-text Linking
 	\checkmarkicon &  &  &  & 
 	% VBS Composition
-	 &  &  &  & \checkmarkicon &  &  & 
+	 & \checkmarkicon &  &  &  &  &  & 
 	% Interactive Implementation
-	 &  & \checkmarkicon &  &  &  &  & 
+	 & \checkmarkicon &  &  &  & \checkmarkicon & \checkmarkicon & 
 	% Target Devices
-	 & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} Kosmos Kaffee \cite{KosmosKaffee} &
+	 &  &  &  &  &  &  \\ 
+\hspace{0.5mm} DataToon \cite{nan} &
 	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & 
 	% Visualization Types
-	 &  &  &  &  & \checkmarkicon & \checkmarkicon & 
+	\checkmarkicon & \checkmarkicon &  &  &  & \checkmarkicon &  & 
 	% Story Thread
-	 &  &  & \checkmarkicon &  & 
+	\checkmarkicon &  &  &  & \checkmarkicon & 
 	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
+	\checkmarkicon &  &  &  & 
 	% VBS Composition
-	\checkmarkicon &  &  &  &  &  &  & 
+	 & \checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon & 
 	% Interactive Implementation
-	 &  &  & \checkmarkicon &  &  &  & 
+	 &  &  &  &  & \checkmarkicon & \checkmarkicon & 
 	% Target Devices
-	 &  & \checkmarkicon &  &  &  & \checkmarkicon \\ 
-\hspace{0.5mm} Virtulleum, Tulln \cite{Virtulleum} &
+	\checkmarkicon & \checkmarkicon &  &  &  &  &  \\ 
+\hspace{0.5mm} Ellipsis \cite{nan} &
+	% Media Types
+	 &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	 &  & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
+	% Story Thread
+	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  &  & 
+	% VBS Composition
+	 & \checkmarkicon & \checkmarkicon &  &  & \checkmarkicon &  & 
+	% Interactive Implementation
+	 & \checkmarkicon & \checkmarkicon &  &  &  & \checkmarkicon & 
+	% Target Devices
+	 &  &  &  &  &  &  \\ 
+\hspace{0.5mm} Flourish \cite{nan} &
 	% Media Types
 	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
 	% Visualization Types
-	 & \checkmarkicon &  &  &  & \checkmarkicon & \checkmarkicon & 
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Story Thread
+	 & \checkmarkicon &  &  & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon & \checkmarkicon &  &  & 
+	% VBS Composition
+	 &  & \checkmarkicon & \checkmarkicon &  & \checkmarkicon &  & 
+	% Interactive Implementation
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & 
+	% Target Devices
+	\checkmarkicon & \checkmarkicon &  &  &  &  &  \\ 
+\hspace{0.5mm} Flow Immersive \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	 &  & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Story Thread
+	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  &  & 
+	% VBS Composition
+	 & \checkmarkicon & \checkmarkicon &  &  & \checkmarkicon &  & 
+	% Interactive Implementation
+	 & \checkmarkicon &  & \checkmarkicon &  &  & \checkmarkicon & 
+	% Target Devices
+	 &  &  & \checkmarkicon & \checkmarkicon &  &  \\ 
+\hspace{0.5mm} Google Looker Studio \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	\checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
+	% Story Thread
+	 & \checkmarkicon &  &  & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  &  & 
+	% VBS Composition
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
+	% Interactive Implementation
+	 &  & \checkmarkicon &  &  & \checkmarkicon & \checkmarkicon & 
+	% Target Devices
+	 &  &  &  &  &  &  \\ 
+\hspace{0.5mm} Historypin \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% Visualization Types
+	 &  &  &  & \checkmarkicon & \checkmarkicon &  & 
+	% Story Thread
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  & \checkmarkicon & 
+	% VBS Composition
+	 & \checkmarkicon & \checkmarkicon &  &  &  &  & 
+	% Interactive Implementation
+	 &  &  &  & \checkmarkicon &  & \checkmarkicon & 
+	% Target Devices
+	\checkmarkicon &  &  &  &  &  &  \\ 
+\hspace{0.5mm} Humap \cite{nan} &
+	% Media Types
+	\checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & 
+	% Visualization Types
+	 &  &  &  & \checkmarkicon & \checkmarkicon &  & 
+	% Story Thread
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  &  & 
+	% VBS Composition
+	 & \checkmarkicon & \checkmarkicon &  &  &  &  & 
+	% Interactive Implementation
+	 &  &  &  & \checkmarkicon &  & \checkmarkicon & 
+	% Target Devices
+	\checkmarkicon &  &  &  &  &  &  \\ 
+\hspace{0.5mm} Idyll Studio \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% Visualization Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
+	% Story Thread
+	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% VBS Composition
+	 & \checkmarkicon &  & \checkmarkicon &  &  &  & 
+	% Interactive Implementation
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  &  &  & \checkmarkicon & 
+	% Target Devices
+	\checkmarkicon &  &  &  &  &  &  \\ 
+\hspace{0.5mm} InTaVia Story Creator \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	\checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Story Thread
+	 &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
+	% VBS Composition
+	 &  &  &  & \checkmarkicon & \checkmarkicon &  & 
+	% Interactive Implementation
+	 &  &  &  &  & \checkmarkicon &  & 
+	% Target Devices
+	\checkmarkicon & \checkmarkicon &  &  &  & \checkmarkicon &  \\ 
+\hspace{0.5mm} Jupyter Notebook \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
+	% Story Thread
+	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  & \checkmarkicon & 
+	% VBS Composition
+	 & \checkmarkicon &  & \checkmarkicon &  & \checkmarkicon &  & 
+	% Interactive Implementation
+	 & \checkmarkicon & \checkmarkicon &  &  &  & \checkmarkicon & 
+	% Target Devices
+	\checkmarkicon &  &  &  &  &  &  \\ 
+\hspace{0.5mm} Microsoft Power BI \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
+	% Story Thread
+	 & \checkmarkicon &  &  & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  &  & 
+	% VBS Composition
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
+	% Interactive Implementation
+	 &  & \checkmarkicon &  &  & \checkmarkicon & \checkmarkicon & 
+	% Target Devices
+	 &  &  &  &  &  &  \\ 
+\hspace{0.5mm} Narralive Story Maker  \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon &  &  &  & 
+	% Visualization Types
+	 &  &  &  &  & \checkmarkicon &  & 
+	% Story Thread
+	 & \checkmarkicon &  &  &  & 
+	% Visualization-text Linking
+	 &  &  & \checkmarkicon & 
+	% VBS Composition
+	 & \checkmarkicon &  &  &  &  &  & 
+	% Interactive Implementation
+	 &  & \checkmarkicon &  &  &  & \checkmarkicon & 
+	% Target Devices
+	\checkmarkicon &  &  &  &  &  &  \\ 
+\hspace{0.5mm} Neatline \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	 &  & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
+	% Story Thread
+	\checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  & \checkmarkicon & 
+	% VBS Composition
+	 & \checkmarkicon & \checkmarkicon & \checkmarkicon &  &  &  & 
+	% Interactive Implementation
+	 &  &  & \checkmarkicon &  &  & \checkmarkicon & 
+	% Target Devices
+	 &  &  &  &  &  &  \\ 
+\hspace{0.5mm} Qlik Sense \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
+	% Story Thread
+	 & \checkmarkicon &  &  & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  &  & 
+	% VBS Composition
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
+	% Interactive Implementation
+	 &  & \checkmarkicon &  &  & \checkmarkicon & \checkmarkicon & 
+	% Target Devices
+	\checkmarkicon & \checkmarkicon &  &  &  &  &  \\ 
+\hspace{0.5mm} Shorthand \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon &  &  &  & 
+	% Visualization Types
+	 &  &  &  &  & \checkmarkicon &  & 
+	% Story Thread
+	\checkmarkicon &  & \checkmarkicon &  &  & 
+	% Visualization-text Linking
+	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% VBS Composition
+	 & \checkmarkicon &  & \checkmarkicon &  &  &  & 
+	% Interactive Implementation
+	\checkmarkicon &  &  & \checkmarkicon &  &  & \checkmarkicon & 
+	% Target Devices
+	\checkmarkicon &  &  &  &  &  &  \\ 
+\hspace{0.5mm} StoryFacets \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% Visualization Types
+	 &  & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
+	% Story Thread
+	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  &  & 
+	% VBS Composition
+	 & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon &  & 
+	% Interactive Implementation
+	 &  & \checkmarkicon &  &  &  & \checkmarkicon & 
+	% Target Devices
+	 &  &  &  &  &  &  \\ 
+\hspace{0.5mm} StorylineJS \cite{nan} &
+	% Media Types
+	 &  & \checkmarkicon &  &  & 
+	% Visualization Types
+	 &  & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
 	% Story Thread
 	\checkmarkicon & \checkmarkicon &  &  &  & 
 	% Visualization-text Linking
 	\checkmarkicon &  &  &  & 
 	% VBS Composition
-	 &  &  & \checkmarkicon &  &  &  & 
+	 & \checkmarkicon &  &  &  & \checkmarkicon &  & 
 	% Interactive Implementation
-	 &  &  &  &  &  &  & 
+	 &  &  &  &  &  & \checkmarkicon & 
 	% Target Devices
-	 &  & \checkmarkicon &  &  &  & \checkmarkicon \\ 
-\hspace{0.5mm} Tiki-Toki \cite{nan} &
+	 &  &  &  &  &  &  \\ 
+\hspace{0.5mm} StoryMapJS \cite{nan} &
 	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
 	% Visualization Types
-	\checkmarkicon &  &  &  &  &  & \checkmarkicon & 
+	 &  &  &  & \checkmarkicon & \checkmarkicon &  & 
 	% Story Thread
-	\checkmarkicon &  &  & \checkmarkicon &  & 
+	\checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & 
 	% Visualization-text Linking
-	 &  & \checkmarkicon &  & 
+	\checkmarkicon &  &  & \checkmarkicon & 
 	% VBS Composition
-	 & \checkmarkicon &  &  & \checkmarkicon &  &  & 
+	 & \checkmarkicon & \checkmarkicon &  &  &  &  & 
 	% Interactive Implementation
-	 &  &  &  &  & \checkmarkicon &  & 
+	 &  &  &  & \checkmarkicon &  & \checkmarkicon & 
 	% Target Devices
-	 & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} Thinglink \cite{nan} &
+	\checkmarkicon &  &  &  &  &  &  \\ 
+\hspace{0.5mm} Tableau \cite{nan} &
 	% Media Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
+	\checkmarkicon &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
 	% Visualization Types
-	 &  &  &  &  &  &  & 
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
 	% Story Thread
-	 & \checkmarkicon &  & \checkmarkicon &  & 
+	 & \checkmarkicon &  &  & \checkmarkicon & 
 	% Visualization-text Linking
-	 &  &  &  & 
+	\checkmarkicon &  &  &  & 
 	% VBS Composition
-	\checkmarkicon &  &  &  & \checkmarkicon &  &  & 
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
 	% Interactive Implementation
-	 &  &  &  &  & \checkmarkicon &  & 
+	 & \checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & \checkmarkicon & 
 	% Target Devices
-	 & \checkmarkicon &  &  &  & \checkmarkicon &  \\ 
-\hspace{0.5mm} Vizrt \cite{nan} &
-	% Media Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & 
-	% Story Thread
-	 & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
-	% Visualization-text Linking
-	 &  &  &  & 
-	% VBS Composition
-	\checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon &  & 
-	% Interactive Implementation
-	 &  &  & \checkmarkicon &  & \checkmarkicon &  & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & \checkmarkicon \\ 
-\hspace{0.5mm} Narralive Story Maker  \cite{nan} &
-	% Media Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
-	% Visualization Types
-	 &  &  &  &  &  &  & 
-	% Story Thread
-	\checkmarkicon &  &  & \checkmarkicon &  & 
-	% Visualization-text Linking
-	 &  &  &  & 
-	% VBS Composition
-	\checkmarkicon &  &  & \checkmarkicon &  &  &  & 
-	% Interactive Implementation
-	 &  &  &  & \checkmarkicon &  &  & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
+	\checkmarkicon & \checkmarkicon &  &  &  &  &  \\ 
 \hspace{0.5mm} The Story Map Building and Vis... \cite{nan} &
 	% Media Types
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon &  &  &  &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	 & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  &  & 
-	% Interactive Implementation
-	 &  &  &  &  &  & \checkmarkicon & 
-	% Target Devices
-	 & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} Humap \cite{nan} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Visualization Types
-	 & \checkmarkicon &  &  &  &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization-text Linking
-	 &  & \checkmarkicon &  & 
-	% VBS Composition
-	 &  &  & \checkmarkicon & \checkmarkicon &  &  & 
-	% Interactive Implementation
-	 &  &  &  &  &  & \checkmarkicon & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} ArcGIS StoryMaps  \cite{nan} &
-	% Media Types
 	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
 	% Visualization Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & 
+	 &  &  &  & \checkmarkicon & \checkmarkicon &  & 
 	% Story Thread
 	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
 	% Visualization-text Linking
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	\checkmarkicon &  &  &  & 
 	% VBS Composition
-	\checkmarkicon &  &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	 & \checkmarkicon & \checkmarkicon &  &  &  &  & 
 	% Interactive Implementation
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} DataToon \cite{nan} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	 &  & \checkmarkicon & \checkmarkicon &  &  &  & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon &  &  & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	 &  &  & \checkmarkicon &  &  & \checkmarkicon & 
-	% Interactive Implementation
-	 & \checkmarkicon &  &  &  &  &  & 
-	% Target Devices
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  &  &  \\ 
-\hspace{0.5mm} Ellipsis \cite{nan} &
-	% Media Types
-	 & \checkmarkicon &  &  & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	 & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  &  & 
-	% Interactive Implementation
-	\checkmarkicon &  &  & \checkmarkicon & \checkmarkicon &  &  & 
-	% Target Devices
-	 & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} Flourish \cite{nan} &
-	% Media Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon & \checkmarkicon &  & \checkmarkicon &  & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% VBS Composition
-	 & \checkmarkicon &  &  & \checkmarkicon & \checkmarkicon &  & 
-	% Interactive Implementation
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon &  &  &  \\ 
-\hspace{0.5mm} Flow Immersive \cite{nan} &
-	% Media Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	 & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  &  & 
-	% Interactive Implementation
-	\checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon &  & 
-	% Target Devices
-	 & \checkmarkicon &  &  &  & \checkmarkicon & \checkmarkicon \\ 
-\hspace{0.5mm} Idyll Studio \cite{nan} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
-	% Visualization-text Linking
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% VBS Composition
-	\checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon &  & 
-	% Interactive Implementation
-	 &  & \checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} Microsoft Power BI \cite{nan} &
-	% Media Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  &  & \checkmarkicon &  & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Interactive Implementation
-	\checkmarkicon &  &  &  & \checkmarkicon &  &  & 
-	% Target Devices
-	\checkmarkicon & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} Google Looker Studio \cite{nan} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  &  & \checkmarkicon &  & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Interactive Implementation
-	\checkmarkicon &  &  &  & \checkmarkicon &  &  & 
-	% Target Devices
-	\checkmarkicon & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} Neatline \cite{nan} &
-	% Media Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & 
-	% Visualization-text Linking
-	\checkmarkicon &  & \checkmarkicon &  & 
-	% VBS Composition
-	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
-	% Interactive Implementation
-	 &  &  &  &  & \checkmarkicon &  & 
-	% Target Devices
-	 & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} Shorthand \cite{nan} &
-	% Media Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
-	% Visualization Types
-	 &  &  &  &  &  &  & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & 
-	% Visualization-text Linking
-	 &  & \checkmarkicon & \checkmarkicon & 
-	% VBS Composition
-	\checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon &  & 
-	% Interactive Implementation
-	 &  & \checkmarkicon &  &  & \checkmarkicon &  & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} StorylineJS \cite{nan} &
-	% Media Types
-	 & \checkmarkicon &  &  & \checkmarkicon & 
-	% Visualization Types
 	 &  &  &  & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
-	% Visualization-text Linking
-	 &  & \checkmarkicon &  & 
-	% VBS Composition
-	 &  &  & \checkmarkicon &  &  &  & 
-	% Interactive Implementation
-	\checkmarkicon &  &  &  &  &  &  & 
 	% Target Devices
-	 & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} StoryMapJS \cite{nan} &
+	 &  &  &  &  &  &  \\ 
+\hspace{0.5mm} Thinglink \cite{nan} &
 	% Media Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	\checkmarkicon & \checkmarkicon &  &  &  & 
 	% Visualization Types
-	 & \checkmarkicon &  &  &  &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	\checkmarkicon &  &  & \checkmarkicon & \checkmarkicon &  &  & 
-	% Interactive Implementation
 	 &  &  &  &  &  & \checkmarkicon & 
+	% Story Thread
+	 & \checkmarkicon &  &  &  & 
+	% Visualization-text Linking
+	 &  &  & \checkmarkicon & 
+	% VBS Composition
+	 &  & \checkmarkicon &  &  &  &  & 
+	% Interactive Implementation
+	 &  &  & \checkmarkicon &  &  & \checkmarkicon & 
 	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
+	 &  &  & \checkmarkicon &  &  &  \\ 
+\hspace{0.5mm} Tiki-Toki \cite{nan} &
+	% Media Types
+	\checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
+	% Visualization Types
+	 &  &  &  & \checkmarkicon & \checkmarkicon &  & 
+	% Story Thread
+	 & \checkmarkicon &  &  &  & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  &  & 
+	% VBS Composition
+	 &  & \checkmarkicon &  &  &  &  & 
+	% Interactive Implementation
+	 &  &  & \checkmarkicon &  &  & \checkmarkicon & 
+	% Target Devices
+	 &  &  &  &  &  &  \\ 
+\hspace{0.5mm} Timeline Storyteller \cite{nan} &
+	% Media Types
+	\checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
+	% Visualization Types
+	\checkmarkicon &  &  &  & \checkmarkicon &  &  & 
+	% Story Thread
+	 & \checkmarkicon &  &  & \checkmarkicon & 
+	% Visualization-text Linking
+	\checkmarkicon &  &  &  & 
+	% VBS Composition
+	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon &  &  & 
+	% Interactive Implementation
+	 & \checkmarkicon & \checkmarkicon &  &  &  & \checkmarkicon & 
+	% Target Devices
+	 &  &  &  &  &  &  \\ 
 \hspace{0.5mm} TimelineJS \cite{nan} &
 	% Media Types
 	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
 	% Visualization Types
-	\checkmarkicon & \checkmarkicon &  &  &  &  & \checkmarkicon & 
+	 &  &  &  & \checkmarkicon & \checkmarkicon &  & 
 	% Story Thread
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
+	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
 	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
+	\checkmarkicon &  &  &  & 
 	% VBS Composition
-	 & \checkmarkicon &  & \checkmarkicon &  &  &  & 
+	 & \checkmarkicon &  &  &  &  &  & 
 	% Interactive Implementation
-	 &  &  &  & \checkmarkicon &  &  & 
+	 &  & \checkmarkicon &  &  &  & \checkmarkicon & 
 	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
+	\checkmarkicon &  &  &  &  &  &  \\ 
 \hspace{0.5mm} TimeMapper \cite{nan} &
 	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon &  &  &  &  & \checkmarkicon & 
-	% Story Thread
 	\checkmarkicon &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization-text Linking
-	\checkmarkicon &  & \checkmarkicon &  & 
-	% VBS Composition
-	 & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  &  & 
-	% Interactive Implementation
-	 &  &  &  & \checkmarkicon &  & \checkmarkicon & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} VizFlow \cite{nan} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
 	% Visualization Types
-	 &  &  &  &  &  &  & 
+	 &  &  &  & \checkmarkicon & \checkmarkicon &  & 
 	% Story Thread
-	\checkmarkicon &  &  &  &  & 
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
 	% Visualization-text Linking
-	 &  & \checkmarkicon & \checkmarkicon & 
+	\checkmarkicon &  &  &  & 
 	% VBS Composition
-	\checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon &  & 
+	 & \checkmarkicon & \checkmarkicon &  &  &  &  & 
 	% Interactive Implementation
-	 &  & \checkmarkicon &  &  &  &  & 
+	 &  & \checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & 
 	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} Qlik Sense \cite{nan} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  &  & \checkmarkicon &  & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Interactive Implementation
-	\checkmarkicon &  &  &  & \checkmarkicon &  &  & 
-	% Target Devices
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  &  &  \\ 
-\hspace{0.5mm} Tableau \cite{nan} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  &  & \checkmarkicon &  & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Interactive Implementation
-	\checkmarkicon &  &  & \checkmarkicon & \checkmarkicon &  &  & 
-	% Target Devices
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  &  &  \\ 
-\hspace{0.5mm} Historypin \cite{nan} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	 & \checkmarkicon &  &  &  &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization-text Linking
-	 &  & \checkmarkicon &  & 
-	% VBS Composition
-	\checkmarkicon &  &  & \checkmarkicon & \checkmarkicon &  &  & 
-	% Interactive Implementation
-	 &  &  &  &  &  & \checkmarkicon & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
-\hspace{0.5mm} Visualeyes \cite{nan} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon &  &  &  &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & 
-	% Visualization-text Linking
-	 &  & \checkmarkicon &  & 
-	% VBS Composition
-	 & \checkmarkicon &  &  & \checkmarkicon &  &  & 
-	% Interactive Implementation
-	 &  &  &  &  & \checkmarkicon &  & 
-	% Target Devices
-	 & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} Jupyter Notebook \cite{nan} &
-	% Media Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	\checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon &  & 
-	% Interactive Implementation
-	\checkmarkicon &  &  & \checkmarkicon & \checkmarkicon &  &  & 
-	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  &  \\ 
+	\checkmarkicon &  &  &  &  &  &  \\ 
 \hspace{0.5mm} ToonNote \cite{nan} &
 	% Media Types
 	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
 	% Visualization Types
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
 	% Story Thread
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
+	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
 	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
+	\checkmarkicon &  &  & \checkmarkicon & 
 	% VBS Composition
-	\checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon &  & 
+	 & \checkmarkicon &  & \checkmarkicon &  &  & \checkmarkicon & 
 	% Interactive Implementation
-	 & \checkmarkicon &  & \checkmarkicon &  &  &  & 
+	 & \checkmarkicon &  &  &  &  & \checkmarkicon & 
 	% Target Devices
-	 & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} StoryFacets \cite{nan} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Visualization Types
-	 & \checkmarkicon &  &  & \checkmarkicon &  & \checkmarkicon & 
-	% Story Thread
-	\checkmarkicon &  & \checkmarkicon & \checkmarkicon &  & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	 &  &  & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
-	% Interactive Implementation
-	\checkmarkicon &  &  &  & \checkmarkicon &  &  & 
-	% Target Devices
-	 & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} ChartAccent \cite{nan} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Visualization Types
-	 &  &  &  & \checkmarkicon &  &  & 
-	% Story Thread
-	\checkmarkicon &  &  & \checkmarkicon &  & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	 &  &  & \checkmarkicon &  &  &  & 
-	% Interactive Implementation
-	 &  &  & \checkmarkicon &  &  &  & 
-	% Target Devices
-	\checkmarkicon & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} Timeline Storyteller \cite{nan} &
-	% Media Types
-	 & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Visualization Types
-	\checkmarkicon &  & \checkmarkicon &  &  &  & \checkmarkicon & 
-	% Story Thread
-	 &  &  & \checkmarkicon &  & 
-	% Visualization-text Linking
-	 & \checkmarkicon & \checkmarkicon &  & 
-	% VBS Composition
-	 & \checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
-	% Interactive Implementation
-	 &  &  & \checkmarkicon & \checkmarkicon &  &  & 
-	% Target Devices
-	 & \checkmarkicon &  &  &  &  &  \\ 
-\hspace{0.5mm} InTaVia Story Creator \cite{nan} &
+	 &  &  &  &  &  &  \\ 
+\hspace{0.5mm} Visualeyes \cite{nan} &
 	% Media Types
 	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
 	% Visualization Types
-	\checkmarkicon & \checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
+	 &  &  &  & \checkmarkicon & \checkmarkicon &  & 
 	% Story Thread
-	\checkmarkicon &  &  & \checkmarkicon & \checkmarkicon & 
+	\checkmarkicon &  & \checkmarkicon &  &  & 
 	% Visualization-text Linking
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	\checkmarkicon &  &  &  & 
 	% VBS Composition
-	 &  &  &  &  & \checkmarkicon & \checkmarkicon & 
+	 &  & \checkmarkicon &  &  &  &  & 
 	% Interactive Implementation
-	 &  &  &  &  &  & \checkmarkicon & 
+	 &  &  & \checkmarkicon &  &  & \checkmarkicon & 
 	% Target Devices
-	 & \checkmarkicon & \checkmarkicon &  &  &  & \checkmarkicon \\ 
+	 &  &  &  &  &  &  \\ 
+\hspace{0.5mm} VizFlow \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon &  &  &  & 
+	% Visualization Types
+	 &  &  &  &  & \checkmarkicon &  & 
+	% Story Thread
+	 &  &  &  &  & 
+	% Visualization-text Linking
+	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% VBS Composition
+	 & \checkmarkicon &  & \checkmarkicon &  &  &  & 
+	% Interactive Implementation
+	\checkmarkicon &  &  &  &  &  & \checkmarkicon & 
+	% Target Devices
+	\checkmarkicon &  &  &  &  &  &  \\ 
+\hspace{0.5mm} Vizrt \cite{nan} &
+	% Media Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Visualization Types
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  &  &  & \checkmarkicon & 
+	% Story Thread
+	 & \checkmarkicon & \checkmarkicon &  &  & 
+	% Visualization-text Linking
+	 &  &  & \checkmarkicon & 
+	% VBS Composition
+	 & \checkmarkicon &  & \checkmarkicon &  &  &  & 
+	% Interactive Implementation
+	 & \checkmarkicon &  & \checkmarkicon &  &  & \checkmarkicon & 
+	% Target Devices
+	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon &  &  \\ 

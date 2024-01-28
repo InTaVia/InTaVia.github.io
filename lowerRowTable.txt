@@ -15,6 +15,23 @@
 	\checkmarkicon &  &  &  & 
 	% Other
 	 \\ 
+\hspace{0.5mm} An Infamous Day \cite{AnInfamousDay} &
+	% Entity-orientation
+	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
+	% Story Complexity
+	 &  & \checkmarkicon &  & \checkmarkicon &  & 
+	% Story Schemata
+	 &  &  & \checkmarkicon &  & \checkmarkicon &  &  &  &  & 
+	% Plot Patterns
+	 &  & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  &  & 
+	% Story Arc & Hook
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
+	% Linearity
+	\checkmarkicon &  & 
+	% Factuality
+	\checkmarkicon &  &  &  & 
+	% Other
+	 \\ 
 \hspace{0.5mm} Archaeology of Wine \cite{ArchaeologyOfWine} &
 	% Entity-orientation
 	\checkmarkicon &  &  &  &  & 
@@ -32,119 +49,17 @@
 	 &  &  &  & 
 	% Other
 	 \\ 
-\hspace{0.5mm} History of Whitney Houston \cite{whitneyHouston} &
+\hspace{0.5mm} Are men singing higher in pop ... \cite{MenSinging} &
 	% Entity-orientation
-	 & \checkmarkicon &  &  &  & 
-	% Story Complexity
-	\checkmarkicon &  &  &  & \checkmarkicon &  & 
-	% Story Schemata
-	\checkmarkicon &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	\checkmarkicon &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
-	% Linearity
-	\checkmarkicon &  & 
-	% Factuality
-	\checkmarkicon &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} How Wine Colonized The World \cite{HowWineColonizedTheWorld} &
-	% Entity-orientation
-	\checkmarkicon &  &  &  & \checkmarkicon & 
-	% Story Complexity
-	 &  & \checkmarkicon &  &  & \checkmarkicon & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  & \checkmarkicon & 
-	% Plot Patterns
-	 &  &  & \checkmarkicon &  &  &  &  & 
-	% Story Arc & Hook
-	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
-	% Linearity
-	\checkmarkicon &  & 
-	% Factuality
-	\checkmarkicon &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} Major Battles in the Napoleoni... \cite{MajorBattlesintheNapoleonicWars} &
-	% Entity-orientation
-	 &  &  & \checkmarkicon & \checkmarkicon & 
-	% Story Complexity
-	 & \checkmarkicon &  &  & \checkmarkicon &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  & \checkmarkicon &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	\checkmarkicon &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} Medieval Philosophers \cite{MedievalPhilosophers} &
-	% Entity-orientation
-	 & \checkmarkicon &  &  & \checkmarkicon & 
-	% Story Complexity
-	 & \checkmarkicon &  & \checkmarkicon &  &  & 
-	% Story Schemata
-	 &  &  &  &  & \checkmarkicon &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 & \checkmarkicon & 
-	% Factuality
-	\checkmarkicon &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} The Life of Mary Kearn \cite{TheLifeofMaryKearn} &
-	% Entity-orientation
-	\checkmarkicon & \checkmarkicon &  & \checkmarkicon &  & 
-	% Story Complexity
-	\checkmarkicon &  &  &  &  & \checkmarkicon & 
-	% Story Schemata
-	\checkmarkicon & \checkmarkicon &  & \checkmarkicon &  &  &  &  &  &  & 
-	% Plot Patterns
-	 & \checkmarkicon &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 & \checkmarkicon & 
-	% Factuality
-	\checkmarkicon &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} The Garden of Earthly Hieronym... \cite{HieronymusBosch} &
-	% Entity-orientation
-	\checkmarkicon &  &  &  &  & 
-	% Story Complexity
-	\checkmarkicon &  &  & \checkmarkicon &  &  & 
-	% Story Schemata
-	 & \checkmarkicon &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  & \checkmarkicon & \checkmarkicon &  &  &  & \checkmarkicon & 
-	% Story Arc & Hook
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
-	% Linearity
-	\checkmarkicon &  & 
-	% Factuality
-	\checkmarkicon &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} An Infamous Day \cite{AnInfamousDay} &
-	% Entity-orientation
-	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
+	\checkmarkicon & \checkmarkicon &  &  &  & 
 	% Story Complexity
 	 &  & \checkmarkicon &  & \checkmarkicon &  & 
 	% Story Schemata
-	 &  &  & \checkmarkicon &  & \checkmarkicon &  &  &  &  & 
+	 &  &  & \checkmarkicon & \checkmarkicon &  &  &  &  &  & 
 	% Plot Patterns
-	 &  & \checkmarkicon &  & \checkmarkicon &  &  &  & 
+	 & \checkmarkicon &  &  &  &  &  &  & 
 	% Story Arc & Hook
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
 	% Linearity
 	\checkmarkicon &  & 
 	% Factuality
@@ -166,6 +81,23 @@
 	 & \checkmarkicon & 
 	% Factuality
 	 &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} Daily Life In The Middle Ages \cite{DailyLifeInTheMiddleAges} &
+	% Entity-orientation
+	\checkmarkicon &  &  &  &  & 
+	% Story Complexity
+	 &  & \checkmarkicon &  &  & \checkmarkicon & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  & \checkmarkicon &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
+	% Linearity
+	\checkmarkicon &  & 
+	% Factuality
+	\checkmarkicon &  &  &  & 
 	% Other
 	 \\ 
 \hspace{0.5mm} Dante's Inferno \cite{DantesInferno} &
@@ -202,6 +134,57 @@
 	 &  & \checkmarkicon & \checkmarkicon & 
 	% Other
 	 \\ 
+\hspace{0.5mm} History of Whitney Houston \cite{whitneyHouston} &
+	% Entity-orientation
+	 & \checkmarkicon &  &  &  & 
+	% Story Complexity
+	\checkmarkicon &  &  &  & \checkmarkicon &  & 
+	% Story Schemata
+	\checkmarkicon &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	\checkmarkicon &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  & \checkmarkicon & 
+	% Linearity
+	\checkmarkicon &  & 
+	% Factuality
+	\checkmarkicon &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} How Wine Colonized The World \cite{HowWineColonizedTheWorld} &
+	% Entity-orientation
+	\checkmarkicon &  &  &  & \checkmarkicon & 
+	% Story Complexity
+	 &  & \checkmarkicon &  &  & \checkmarkicon & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  & \checkmarkicon & 
+	% Plot Patterns
+	 &  &  & \checkmarkicon &  &  &  &  & 
+	% Story Arc & Hook
+	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
+	% Linearity
+	\checkmarkicon &  & 
+	% Factuality
+	\checkmarkicon &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} How You Play Spades is How You... \cite{HowYouPlaySpadesisHowYouPlayLife} &
+	% Entity-orientation
+	 &  &  & \checkmarkicon &  & 
+	% Story Complexity
+	 &  & \checkmarkicon &  & \checkmarkicon &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  & \checkmarkicon &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	\checkmarkicon & \checkmarkicon &  &  &  & 
+	% Linearity
+	 & \checkmarkicon & 
+	% Factuality
+	\checkmarkicon &  &  &  & 
+	% Other
+	 \\ 
 \hspace{0.5mm} January 1969: Mapping the Sit-... \cite{January1969} &
 	% Entity-orientation
 	 & \checkmarkicon &  & \checkmarkicon &  & 
@@ -232,6 +215,40 @@
 	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
 	% Linearity
 	\checkmarkicon &  & 
+	% Factuality
+	\checkmarkicon &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} Kosmos Kaffee \cite{KosmosKaffee} &
+	% Entity-orientation
+	\checkmarkicon &  &  &  &  & 
+	% Story Complexity
+	\checkmarkicon &  &  & \checkmarkicon &  &  & 
+	% Story Schemata
+	 & \checkmarkicon &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 & \checkmarkicon &  &  & \checkmarkicon &  &  &  & 
+	% Story Arc & Hook
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
+	% Linearity
+	\checkmarkicon &  & 
+	% Factuality
+	\checkmarkicon &  &  &  & 
+	% Other
+	\checkmarkicon \\ 
+\hspace{0.5mm} Major Battles in the Napoleoni... \cite{MajorBattlesintheNapoleonicWars} &
+	% Entity-orientation
+	 &  &  & \checkmarkicon & \checkmarkicon & 
+	% Story Complexity
+	 & \checkmarkicon &  &  & \checkmarkicon &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  & \checkmarkicon &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
 	% Factuality
 	\checkmarkicon &  &  &  & 
 	% Other
@@ -287,6 +304,23 @@
 	\checkmarkicon &  & \checkmarkicon &  & 
 	% Other
 	 \\ 
+\hspace{0.5mm} Medieval Philosophers \cite{MedievalPhilosophers} &
+	% Entity-orientation
+	 & \checkmarkicon &  &  & \checkmarkicon & 
+	% Story Complexity
+	 & \checkmarkicon &  & \checkmarkicon &  &  & 
+	% Story Schemata
+	 &  &  &  &  & \checkmarkicon &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 & \checkmarkicon & 
+	% Factuality
+	\checkmarkicon &  &  &  & 
+	% Other
+	 \\ 
 \hspace{0.5mm} Mercator: It’s a flat, flat wo... \cite{mercator} &
 	% Entity-orientation
 	\checkmarkicon & \checkmarkicon &  &  &  & 
@@ -300,6 +334,23 @@
 	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
 	% Linearity
 	 & \checkmarkicon & 
+	% Factuality
+	\checkmarkicon &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} Miles Davis' Famous Albums \cite{kim2019} &
+	% Entity-orientation
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & 
+	% Story Complexity
+	\checkmarkicon &  &  &  & \checkmarkicon &  & 
+	% Story Schemata
+	 &  &  & \checkmarkicon &  &  &  &  &  &  & 
+	% Plot Patterns
+	\checkmarkicon &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Linearity
+	\checkmarkicon &  & 
 	% Factuality
 	\checkmarkicon &  &  &  & 
 	% Other
@@ -346,7 +397,7 @@
 	% Story Schemata
 	 &  &  &  &  &  &  &  & \checkmarkicon &  & 
 	% Plot Patterns
-	 &  &  &  & \checkmarkicon &  &  &  & 
+	 &  &  &  & \checkmarkicon &  &  & \checkmarkicon & 
 	% Story Arc & Hook
 	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
 	% Linearity
@@ -372,6 +423,23 @@
 	\checkmarkicon &  &  &  & 
 	% Other
 	 \\ 
+\hspace{0.5mm} The Fallen of World War II \cite{theFallen} &
+	% Entity-orientation
+	 &  & \checkmarkicon & \checkmarkicon &  & 
+	% Story Complexity
+	 &  & \checkmarkicon &  &  & \checkmarkicon & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  & \checkmarkicon &  & 
+	% Plot Patterns
+	 &  &  & \checkmarkicon &  &  &  &  & 
+	% Story Arc & Hook
+	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
+	% Linearity
+	 & \checkmarkicon & 
+	% Factuality
+	\checkmarkicon &  &  &  & 
+	% Other
+	 \\ 
 \hspace{0.5mm} The Giant Squid: When Myth Enc... \cite{TheGiantSquid} &
 	% Entity-orientation
 	\checkmarkicon &  &  &  & \checkmarkicon & 
@@ -385,6 +453,23 @@
 	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
 	% Linearity
 	\checkmarkicon &  & 
+	% Factuality
+	\checkmarkicon &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} The Life of Mary Kearn \cite{TheLifeofMaryKearn} &
+	% Entity-orientation
+	\checkmarkicon & \checkmarkicon &  & \checkmarkicon &  & 
+	% Story Complexity
+	\checkmarkicon &  &  &  &  & \checkmarkicon & 
+	% Story Schemata
+	\checkmarkicon & \checkmarkicon &  & \checkmarkicon &  &  &  &  &  &  & 
+	% Plot Patterns
+	 & \checkmarkicon &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 & \checkmarkicon & 
 	% Factuality
 	\checkmarkicon &  &  &  & 
 	% Other
@@ -406,23 +491,6 @@
 	\checkmarkicon &  &  &  & 
 	% Other
 	 \\ 
-\hspace{0.5mm} The Whiskey Rebellion: An Inte... \cite{whiskeyRebellion} &
-	% Entity-orientation
-	\checkmarkicon &  &  & \checkmarkicon & \checkmarkicon & 
-	% Story Complexity
-	 & \checkmarkicon &  &  & \checkmarkicon &  & 
-	% Story Schemata
-	 & \checkmarkicon &  &  &  &  &  &  & \checkmarkicon &  & 
-	% Plot Patterns
-	 & \checkmarkicon &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
-	% Linearity
-	 & \checkmarkicon & 
-	% Factuality
-	\checkmarkicon &  &  &  & 
-	% Other
-	 \\ 
 \hspace{0.5mm} US Westward Expansion \cite{USWestwardExpansion} &
 	% Entity-orientation
 	 &  &  &  & \checkmarkicon & 
@@ -440,6 +508,23 @@
 	\checkmarkicon &  &  &  & 
 	% Other
 	 \\ 
+\hspace{0.5mm} Virtulleum, Tulln \cite{Virtulleum} &
+	% Entity-orientation
+	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
+	% Story Complexity
+	 & \checkmarkicon &  & \checkmarkicon &  &  & 
+	% Story Schemata
+	\checkmarkicon & \checkmarkicon & \checkmarkicon &  &  &  &  & \checkmarkicon &  & \checkmarkicon & 
+	% Plot Patterns
+	\checkmarkicon & \checkmarkicon &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  & \checkmarkicon & 
+	% Linearity
+	 & \checkmarkicon & 
+	% Factuality
+	\checkmarkicon &  & \checkmarkicon &  & 
+	% Other
+	\checkmarkicon \\ 
 \hspace{0.5mm} Visualization-based Scrollytel... \cite{MusEcologyScrollytelling} &
 	% Entity-orientation
 	\checkmarkicon &  & \checkmarkicon &  & \checkmarkicon & 
@@ -465,79 +550,11 @@
 	% Story Schemata
 	 &  &  & \checkmarkicon &  &  &  &  & \checkmarkicon &  & 
 	% Plot Patterns
-	 &  & \checkmarkicon &  & \checkmarkicon &  &  &  & 
+	 &  & \checkmarkicon &  & \checkmarkicon & \checkmarkicon &  &  & 
 	% Story Arc & Hook
 	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
 	% Linearity
 	\checkmarkicon &  & 
-	% Factuality
-	\checkmarkicon &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} Miles Davis' Famous Albums \cite{kim2019} &
-	% Entity-orientation
-	\checkmarkicon & \checkmarkicon & \checkmarkicon &  &  & 
-	% Story Complexity
-	\checkmarkicon &  &  &  & \checkmarkicon &  & 
-	% Story Schemata
-	 &  &  & \checkmarkicon &  &  &  &  &  &  & 
-	% Plot Patterns
-	\checkmarkicon &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Linearity
-	\checkmarkicon &  & 
-	% Factuality
-	\checkmarkicon &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} Are men singing higher in pop ... \cite{MenSinging} &
-	% Entity-orientation
-	\checkmarkicon & \checkmarkicon &  &  &  & 
-	% Story Complexity
-	 &  & \checkmarkicon &  & \checkmarkicon &  & 
-	% Story Schemata
-	 &  &  & \checkmarkicon & \checkmarkicon &  &  &  &  &  & 
-	% Plot Patterns
-	 & \checkmarkicon &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Linearity
-	\checkmarkicon &  & 
-	% Factuality
-	\checkmarkicon &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} How You Play Spades is How You... \cite{HowYouPlaySpadesisHowYouPlayLife} &
-	% Entity-orientation
-	 &  &  & \checkmarkicon &  & 
-	% Story Complexity
-	 &  & \checkmarkicon &  & \checkmarkicon &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  & \checkmarkicon &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	\checkmarkicon & \checkmarkicon &  &  &  & 
-	% Linearity
-	 & \checkmarkicon & 
-	% Factuality
-	\checkmarkicon &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} The Fallen of World War II \cite{theFallen} &
-	% Entity-orientation
-	 &  & \checkmarkicon & \checkmarkicon &  & 
-	% Story Complexity
-	 &  & \checkmarkicon &  &  & \checkmarkicon & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  & \checkmarkicon &  & 
-	% Plot Patterns
-	 &  &  & \checkmarkicon &  &  &  &  & 
-	% Story Arc & Hook
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon & 
-	% Linearity
-	 & \checkmarkicon & 
 	% Factuality
 	\checkmarkicon &  &  &  & 
 	% Other
@@ -559,160 +576,24 @@
 	\checkmarkicon &  &  &  & 
 	% Other
 	\checkmarkicon \\ 
-\hspace{0.5mm} Daily Life In The Middle Ages \cite{DailyLifeInTheMiddleAges} &
-	% Entity-orientation
-	\checkmarkicon &  &  &  &  & 
-	% Story Complexity
-	 &  & \checkmarkicon &  &  & \checkmarkicon & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  & \checkmarkicon &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	\checkmarkicon & \checkmarkicon &  &  & \checkmarkicon & 
-	% Linearity
-	\checkmarkicon &  & 
-	% Factuality
-	\checkmarkicon &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} Kosmos Kaffee \cite{KosmosKaffee} &
-	% Entity-orientation
-	\checkmarkicon &  &  &  &  & 
-	% Story Complexity
-	\checkmarkicon &  &  & \checkmarkicon &  &  & 
-	% Story Schemata
-	 & \checkmarkicon &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 & \checkmarkicon &  &  & \checkmarkicon &  &  &  & 
-	% Story Arc & Hook
-	\checkmarkicon & \checkmarkicon & \checkmarkicon & \checkmarkicon &  & 
-	% Linearity
-	\checkmarkicon &  & 
-	% Factuality
-	\checkmarkicon &  &  &  & 
-	% Other
-	\checkmarkicon \\ 
-\hspace{0.5mm} Virtulleum, Tulln \cite{Virtulleum} &
-	% Entity-orientation
-	\checkmarkicon & \checkmarkicon &  & \checkmarkicon & \checkmarkicon & 
-	% Story Complexity
-	 & \checkmarkicon &  & \checkmarkicon &  &  & 
-	% Story Schemata
-	\checkmarkicon & \checkmarkicon & \checkmarkicon &  &  &  &  & \checkmarkicon &  & \checkmarkicon & 
-	% Plot Patterns
-	\checkmarkicon & \checkmarkicon &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  & \checkmarkicon & 
-	% Linearity
-	 & \checkmarkicon & 
-	% Factuality
-	\checkmarkicon &  & \checkmarkicon &  & 
-	% Other
-	\checkmarkicon \\ 
-\hspace{0.5mm} Tiki-Toki \cite{nan} &
-	% Entity-orientation
-	 &  &  &  &  & 
-	% Story Complexity
-	 &  &  &  &  &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	 &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} Thinglink \cite{nan} &
-	% Entity-orientation
-	 &  &  &  &  & 
-	% Story Complexity
-	 &  &  &  &  &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	 &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} Vizrt \cite{nan} &
-	% Entity-orientation
-	 &  &  &  &  & 
-	% Story Complexity
-	 &  &  &  &  &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	 &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} Narralive Story Maker  \cite{nan} &
-	% Entity-orientation
-	 &  &  &  &  & 
-	% Story Complexity
-	 &  &  &  &  &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	 &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} The Story Map Building and Vis... \cite{nan} &
-	% Entity-orientation
-	 &  &  &  &  & 
-	% Story Complexity
-	 &  &  &  &  &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	 &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} Humap \cite{nan} &
-	% Entity-orientation
-	 &  &  &  &  & 
-	% Story Complexity
-	 &  &  &  &  &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	 &  &  &  & 
-	% Other
-	 \\ 
 \hspace{0.5mm} ArcGIS StoryMaps  \cite{nan} &
+	% Entity-orientation
+	 &  &  &  &  & 
+	% Story Complexity
+	 &  &  &  &  &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
+	% Factuality
+	 &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} ChartAccent \cite{nan} &
 	% Entity-orientation
 	 &  &  &  &  & 
 	% Story Complexity
@@ -797,7 +678,92 @@
 	 &  &  &  & 
 	% Other
 	 \\ 
+\hspace{0.5mm} Google Looker Studio \cite{nan} &
+	% Entity-orientation
+	 &  &  &  &  & 
+	% Story Complexity
+	 &  &  &  &  &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
+	% Factuality
+	 &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} Historypin \cite{nan} &
+	% Entity-orientation
+	 &  &  &  &  & 
+	% Story Complexity
+	 &  &  &  &  &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
+	% Factuality
+	 &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} Humap \cite{nan} &
+	% Entity-orientation
+	 &  &  &  &  & 
+	% Story Complexity
+	 &  &  &  &  &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
+	% Factuality
+	 &  &  &  & 
+	% Other
+	 \\ 
 \hspace{0.5mm} Idyll Studio \cite{nan} &
+	% Entity-orientation
+	 &  &  &  &  & 
+	% Story Complexity
+	 &  &  &  &  &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
+	% Factuality
+	 &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} InTaVia Story Creator \cite{nan} &
+	% Entity-orientation
+	 &  &  &  &  & 
+	% Story Complexity
+	 &  &  &  &  &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
+	% Factuality
+	 &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} Jupyter Notebook \cite{nan} &
 	% Entity-orientation
 	 &  &  &  &  & 
 	% Story Complexity
@@ -831,7 +797,7 @@
 	 &  &  &  & 
 	% Other
 	 \\ 
-\hspace{0.5mm} Google Looker Studio \cite{nan} &
+\hspace{0.5mm} Narralive Story Maker  \cite{nan} &
 	% Entity-orientation
 	 &  &  &  &  & 
 	% Story Complexity
@@ -865,7 +831,41 @@
 	 &  &  &  & 
 	% Other
 	 \\ 
+\hspace{0.5mm} Qlik Sense \cite{nan} &
+	% Entity-orientation
+	 &  &  &  &  & 
+	% Story Complexity
+	 &  &  &  &  &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
+	% Factuality
+	 &  &  &  & 
+	% Other
+	 \\ 
 \hspace{0.5mm} Shorthand \cite{nan} &
+	% Entity-orientation
+	 &  &  &  &  & 
+	% Story Complexity
+	 &  &  &  &  &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
+	% Factuality
+	 &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} StoryFacets \cite{nan} &
 	% Entity-orientation
 	 &  &  &  &  & 
 	% Story Complexity
@@ -916,6 +916,91 @@
 	 &  &  &  & 
 	% Other
 	 \\ 
+\hspace{0.5mm} Tableau \cite{nan} &
+	% Entity-orientation
+	 &  &  &  &  & 
+	% Story Complexity
+	 &  &  &  &  &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
+	% Factuality
+	 &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} The Story Map Building and Vis... \cite{nan} &
+	% Entity-orientation
+	 &  &  &  &  & 
+	% Story Complexity
+	 &  &  &  &  &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
+	% Factuality
+	 &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} Thinglink \cite{nan} &
+	% Entity-orientation
+	 &  &  &  &  & 
+	% Story Complexity
+	 &  &  &  &  &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
+	% Factuality
+	 &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} Tiki-Toki \cite{nan} &
+	% Entity-orientation
+	 &  &  &  &  & 
+	% Story Complexity
+	 &  &  &  &  &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
+	% Factuality
+	 &  &  &  & 
+	% Other
+	 \\ 
+\hspace{0.5mm} Timeline Storyteller \cite{nan} &
+	% Entity-orientation
+	 &  &  &  &  & 
+	% Story Complexity
+	 &  &  &  &  &  & 
+	% Story Schemata
+	 &  &  &  &  &  &  &  &  &  & 
+	% Plot Patterns
+	 &  &  &  &  &  &  &  & 
+	% Story Arc & Hook
+	 &  &  &  &  & 
+	% Linearity
+	 &  & 
+	% Factuality
+	 &  &  &  & 
+	% Other
+	 \\ 
 \hspace{0.5mm} TimelineJS \cite{nan} &
 	% Entity-orientation
 	 &  &  &  &  & 
@@ -950,58 +1035,7 @@
 	 &  &  &  & 
 	% Other
 	 \\ 
-\hspace{0.5mm} VizFlow \cite{nan} &
-	% Entity-orientation
-	 &  &  &  &  & 
-	% Story Complexity
-	 &  &  &  &  &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	 &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} Qlik Sense \cite{nan} &
-	% Entity-orientation
-	 &  &  &  &  & 
-	% Story Complexity
-	 &  &  &  &  &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	 &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} Tableau \cite{nan} &
-	% Entity-orientation
-	 &  &  &  &  & 
-	% Story Complexity
-	 &  &  &  &  &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	 &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} Historypin \cite{nan} &
+\hspace{0.5mm} ToonNote \cite{nan} &
 	% Entity-orientation
 	 &  &  &  &  & 
 	% Story Complexity
@@ -1035,7 +1069,7 @@
 	 &  &  &  & 
 	% Other
 	 \\ 
-\hspace{0.5mm} Jupyter Notebook \cite{nan} &
+\hspace{0.5mm} VizFlow \cite{nan} &
 	% Entity-orientation
 	 &  &  &  &  & 
 	% Story Complexity
@@ -1052,75 +1086,7 @@
 	 &  &  &  & 
 	% Other
 	 \\ 
-\hspace{0.5mm} ToonNote \cite{nan} &
-	% Entity-orientation
-	 &  &  &  &  & 
-	% Story Complexity
-	 &  &  &  &  &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	 &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} StoryFacets \cite{nan} &
-	% Entity-orientation
-	 &  &  &  &  & 
-	% Story Complexity
-	 &  &  &  &  &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	 &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} ChartAccent \cite{nan} &
-	% Entity-orientation
-	 &  &  &  &  & 
-	% Story Complexity
-	 &  &  &  &  &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	 &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} Timeline Storyteller \cite{nan} &
-	% Entity-orientation
-	 &  &  &  &  & 
-	% Story Complexity
-	 &  &  &  &  &  & 
-	% Story Schemata
-	 &  &  &  &  &  &  &  &  &  & 
-	% Plot Patterns
-	 &  &  &  &  &  &  &  & 
-	% Story Arc & Hook
-	 &  &  &  &  & 
-	% Linearity
-	 &  & 
-	% Factuality
-	 &  &  &  & 
-	% Other
-	 \\ 
-\hspace{0.5mm} InTaVia Story Creator \cite{nan} &
+\hspace{0.5mm} Vizrt \cite{nan} &
 	% Entity-orientation
 	 &  &  &  &  & 
 	% Story Complexity
