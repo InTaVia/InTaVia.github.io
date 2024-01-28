@@ -78,7 +78,87 @@
     "Main Topics": "Culture",
     "DH": null,
     "CH": "X",
-    "Image": null
+    "Image": "WerHeiltHatRecht.png"
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text",
+      "Images",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Map",
+      "Chart",
+      "Interaction"
+    ],
+    "Story Thread": [
+      "Text",
+      "Temporal Succession",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [
+      "In-text References",
+      "Visualization Annotations",
+      "Coordinated Scrolling"
+    ],
+    "VBS Composition": [
+      "Pathways Through Multiple Visualizations"
+    ],
+    "Interactive Implementation": [
+      "Scrollytelling",
+      "Moving Camera"
+    ],
+    "Target Devices": [
+      "Desktop / Touchscreen",
+      "Mobile Device"
+    ],
+    "Entity-orientation": [
+      "Objects",
+      "Persons",
+      "Events",
+      "Places"
+    ],
+    "Story Complexity": [
+      "Synchronic: Complex",
+      "Diachronic: Medium"
+    ],
+    "Story Schemata": [
+      "Hybrid Biography",
+      "Biography Bundles"
+    ],
+    "Plot Patterns": [
+      "Destruction Plot",
+      "Cause & Effect",
+      "Convergence"
+    ],
+    "Story Arc & Hook": [
+      "Set-up",
+      "Rising Conflict / Supporting Facts",
+      "Climax / Main Insight",
+      "Resolution / Conclusion"
+    ],
+    "Linearity": [
+      "Linear Storytelling"
+    ],
+    "Factuality": [
+      "Factuality"
+    ],
+    "Other": [],
+    "Name/Title": "An Infamous Day",
+    "Bibtex": "AnInfamousDay",
+    "Traceability": "Author team prior knowlegde",
+    "Link": "http://storymaps.esri.com/stories/2016/pearl-harbor/index.html",
+    "Venue": "Independent",
+    "Format/Published in": "Web",
+    "Description": "Scrollytelling",
+    "Abstract": "None",
+    "Authors": "Esri",
+    "Main Topics": "History",
+    "DH": "x",
+    "CH": null,
+    "Image": "AnInfamousDay.png"
   },
   {
     "Media Types": [
@@ -142,7 +222,343 @@
     "Main Topics": "Culture",
     "DH": null,
     "CH": "X",
-    "Image": null
+    "Image": "ArcheologyOfWine.png"
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text",
+      "Images",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Timeline",
+      "Chart"
+    ],
+    "Story Thread": [
+      "Text",
+      "Speech",
+      "Temporal Succession"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
+    ],
+    "VBS Composition": [
+      "Timeline Visualization"
+    ],
+    "Interactive Implementation": [
+      "Slideshow"
+    ],
+    "Target Devices": [
+      "Desktop / Touchscreen",
+      "Mobile Device"
+    ],
+    "Entity-orientation": [
+      "Objects",
+      "Persons"
+    ],
+    "Story Complexity": [
+      "Synchronic: Complex",
+      "Diachronic: Medium"
+    ],
+    "Story Schemata": [
+      "Hybrid Biography",
+      "Biography Sequences"
+    ],
+    "Plot Patterns": [
+      "Emergence Plot"
+    ],
+    "Story Arc & Hook": [
+      "Set-up",
+      "Rising Conflict / Supporting Facts",
+      "Climax / Main Insight",
+      "Resolution / Conclusion",
+      "Story Hook"
+    ],
+    "Linearity": [
+      "Linear Storytelling"
+    ],
+    "Factuality": [
+      "Factuality"
+    ],
+    "Other": [],
+    "Name/Title": "Are men singing higher in pop songs today?",
+    "Bibtex": "MenSinging",
+    "Traceability": "Pudding.cool",
+    "Link": "https://pudding.cool/2019/08/register/",
+    "Venue": "Independant",
+    "Format/Published in": "Web",
+    "Description": "Storytelling instance",
+    "Abstract": "Visual Analysis of Register averages of different artists/songs through the last century.",
+    "Authors": "Matt Daniels",
+    "Main Topics": "Arts",
+    "DH": null,
+    "CH": "X",
+    "Image": "MenSinging.png"
+  },
+  {
+    "Media Types": [
+      "Text",
+      "Images",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Timeline",
+      "Map",
+      "Rendering",
+      "Interaction"
+    ],
+    "Story Thread": [
+      "Text",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [
+      "In-text References",
+      "Coordinated Scrolling"
+    ],
+    "VBS Composition": [
+      "Pathways Through Multiple Visualizations"
+    ],
+    "Interactive Implementation": [
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [
+      "Mobile Device"
+    ],
+    "Entity-orientation": [
+      "Persons",
+      "Events",
+      "Places"
+    ],
+    "Story Complexity": [
+      "Synchronic: Simple",
+      "Diachronic: Medium"
+    ],
+    "Story Schemata": [
+      "Actor Biography"
+    ],
+    "Plot Patterns": [
+      "Emergence Plot"
+    ],
+    "Story Arc & Hook": [],
+    "Linearity": [
+      "Non-linear Storytellig"
+    ],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "Around the Globe with Reinhold W\u00fcrth",
+    "Bibtex": "AroundtheGlobe",
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://www.youtube.com/watch?v=PdUhkXaIUfE",
+    "Venue": "Independent",
+    "Format/Published in": "Web",
+    "Description": "Video demonstration",
+    "Abstract": "None",
+    "Authors": "Fluxguide",
+    "Main Topics": "Economics",
+    "DH": "X",
+    "CH": null,
+    "Image": "AroundtheGlobewithReinholdW\u00fcrth.png"
+  },
+  {
+    "Media Types": [
+      "Text",
+      "Images",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Rendering",
+      "Interaction"
+    ],
+    "Story Thread": [
+      "Text"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
+    ],
+    "VBS Composition": [
+      "Mixed Pathway & Exploration"
+    ],
+    "Interactive Implementation": [
+      "Scrollytelling"
+    ],
+    "Target Devices": [
+      "Desktop / Touchscreen"
+    ],
+    "Entity-orientation": [
+      "Objects"
+    ],
+    "Story Complexity": [
+      "Synchronic: Complex",
+      "Diachronic: Complex"
+    ],
+    "Story Schemata": [
+      "Larger Topic / Era"
+    ],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [
+      "Set-up",
+      "Rising Conflict / Supporting Facts",
+      "Story Hook"
+    ],
+    "Linearity": [
+      "Linear Storytelling"
+    ],
+    "Factuality": [
+      "Factuality"
+    ],
+    "Other": [],
+    "Name/Title": "Daily Life In The Middle Ages",
+    "Bibtex": "DailyLifeInTheMiddleAges",
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://alltagimmittelalter.gnm.de/",
+    "Venue": "Independent",
+    "Format/Published in": "Web",
+    "Description": "Storytelling instance",
+    "Abstract": "None",
+    "Authors": "Germanisches National Museum",
+    "Main Topics": "History",
+    "DH": null,
+    "CH": "x",
+    "Image": "DailyLifeInTheMiddleAges.png"
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Map",
+      "Rendering",
+      "Interaction"
+    ],
+    "Story Thread": [
+      "Text",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [
+      "In-text References",
+      "Visualization Annotations",
+      "Coordinated Scrolling"
+    ],
+    "VBS Composition": [
+      "Pathways Through Multiple Visualizations"
+    ],
+    "Interactive Implementation": [
+      "Scrollytelling",
+      "Moving Camera"
+    ],
+    "Target Devices": [
+      "Desktop / Touchscreen",
+      "Mobile Device"
+    ],
+    "Entity-orientation": [
+      "Places"
+    ],
+    "Story Complexity": [
+      "Synchronic: Simple",
+      "Diachronic: Simple"
+    ],
+    "Story Schemata": [
+      "Place Biography"
+    ],
+    "Plot Patterns": [
+      "Genesis Plot"
+    ],
+    "Story Arc & Hook": [
+      "Set-up",
+      "Rising Conflict / Supporting Facts"
+    ],
+    "Linearity": [
+      "Linear Storytelling"
+    ],
+    "Factuality": [
+      "Factuality",
+      "Fictitious Elements"
+    ],
+    "Other": [],
+    "Name/Title": "Dante's Inferno",
+    "Bibtex": "DantesInferno",
+    "Traceability": "ESRI ArcGis Storymaps",
+    "Link": "https://storymaps.arcgis.com/stories/ad2a09720b75435b922396307e2d6004",
+    "Venue": "Independant",
+    "Format/Published in": "Web",
+    "Description": "Storytelling instance",
+    "Abstract": null,
+    "Authors": "Josef M\u00fcnzberger",
+    "Main Topics": "Arts",
+    "DH": null,
+    "CH": "x",
+    "Image": "DantesInferno.png"
+  },
+  {
+    "Media Types": [
+      "Text",
+      "Images",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Map",
+      "Interaction"
+    ],
+    "Story Thread": [
+      "Text",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [
+      "In-text References",
+      "Visualization Annotations"
+    ],
+    "VBS Composition": [
+      "Narrative Pathway"
+    ],
+    "Interactive Implementation": [
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [
+      "Desktop / Touchscreen",
+      "Mobile Device"
+    ],
+    "Entity-orientation": [
+      "Persons",
+      "Places"
+    ],
+    "Story Complexity": [
+      "Synchronic: Simple",
+      "Diachronic: Medium"
+    ],
+    "Story Schemata": [
+      "Actor Biography"
+    ],
+    "Plot Patterns": [
+      "Metamorphosis Plot"
+    ],
+    "Story Arc & Hook": [],
+    "Linearity": [
+      "Linear Storytelling"
+    ],
+    "Factuality": [
+      "Fictitious Elements",
+      "Fictitious Story World"
+    ],
+    "Other": [],
+    "Name/Title": "Game of Throne Arya's Jouney",
+    "Bibtex": "GameofThrone",
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://storymap.knightlab.com/examples/aryas-journey/",
+    "Venue": "Independent",
+    "Format/Published in": "Web",
+    "Description": "Storytelling instance",
+    "Abstract": "None",
+    "Authors": "Knight Lab",
+    "Main Topics": "Arts",
+    "DH": null,
+    "CH": "X",
+    "Image": "GameofThroneAryasJouney.png"
   },
   {
     "Media Types": [
@@ -215,7 +631,7 @@
     "Main Topics": "Arts",
     "DH": null,
     "CH": "x",
-    "Image": null
+    "Image": "HistoryOfWhitneyHouston.png"
   },
   {
     "Media Types": [
@@ -286,540 +702,71 @@
     "Main Topics": "History",
     "DH": null,
     "CH": "X",
-    "Image": null
+    "Image": "HowWineColonizedTheWorld.png"
   },
   {
     "Media Types": [
       "Text",
-      "Images",
       "Visualization"
     ],
     "Visualization Types": [
-      "Timeline",
       "Map",
-      "Interaction"
+      "Set",
+      "Chart"
     ],
-    "Story Thread": [],
+    "Story Thread": [
+      "Text",
+      "Juxtaposition"
+    ],
     "Visualization-text Linking": [
       "In-text References",
       "Visualization Annotations"
     ],
     "VBS Composition": [
-      "Pathways Through Multiple Visualizations"
+      "Stories With Multiple Visualizations"
     ],
     "Interactive Implementation": [
-      "Slideshow"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen"
-    ],
-    "Entity-orientation": [
-      "Events",
-      "Places"
-    ],
-    "Story Complexity": [
-      "Synchronic: Medium",
-      "Diachronic: Medium"
-    ],
-    "Story Schemata": [
-      "Larger Topic / Era"
-    ],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [
-      "Factuality"
-    ],
-    "Other": [],
-    "Name/Title": "Major Battles in the Napoleonic Wars",
-    "Bibtex": "MajorBattlesintheNapoleonicWars",
-    "Traceability": "Author team prior knowlegde",
-    "Link": "http://timemapper.okfnlabs.org/anon/0s5rzt-major-battles-in-the-napoleonic-wars",
-    "Venue": "Independent",
-    "Format/Published in": "Web",
-    "Description": "Storytelling instance",
-    "Abstract": "None",
-    "Authors": "Unknown",
-    "Main Topics": "History",
-    "DH": "x",
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Timeline",
-      "Map",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text"
-    ],
-    "Visualization-text Linking": [
-      "Coordinated Scrolling"
-    ],
-    "VBS Composition": [
-      "Timeline Visualization",
-      "Narrative Pathway"
-    ],
-    "Interactive Implementation": [
-      "Slideshow + Moving Camera"
+      "Scrollytelling"
     ],
     "Target Devices": [
       "Desktop / Touchscreen",
       "Mobile Device"
     ],
     "Entity-orientation": [
-      "Persons",
-      "Places"
-    ],
-    "Story Complexity": [
-      "Synchronic: Medium",
-      "Diachronic: Simple"
-    ],
-    "Story Schemata": [
-      "Biography Bundles"
-    ],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [
-      "Non-linear Storytellig"
-    ],
-    "Factuality": [
-      "Factuality"
-    ],
-    "Other": [],
-    "Name/Title": "Medieval Philosophers",
-    "Bibtex": "MedievalPhilosophers",
-    "Traceability": "Author team prior knowlegde",
-    "Link": "http://timemapper.okfnlabs.org/okfn/medieval-philosophers",
-    "Venue": "Independent",
-    "Format/Published in": "Web",
-    "Description": "Storytelling instance",
-    "Abstract": "None",
-    "Authors": "The Open Knowledge Foundation",
-    "Main Topics": "Arts",
-    "DH": null,
-    "CH": "x",
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Timeline",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Juxtaposition"
-    ],
-    "Visualization-text Linking": [
-      "In-text References",
-      "Visualization Legend"
-    ],
-    "VBS Composition": [
-      "Timeline Visualization"
-    ],
-    "Interactive Implementation": [
-      "Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [
-      "Objects",
-      "Persons",
       "Events"
-    ],
-    "Story Complexity": [
-      "Synchronic: Simple",
-      "Diachronic: Complex"
-    ],
-    "Story Schemata": [
-      "Actor Biography",
-      "Object Biography",
-      "Hybrid Biography"
-    ],
-    "Plot Patterns": [
-      "Emergence Plot"
-    ],
-    "Story Arc & Hook": [],
-    "Linearity": [
-      "Non-linear Storytellig"
-    ],
-    "Factuality": [
-      "Factuality"
-    ],
-    "Other": [],
-    "Name/Title": "The Life of Mary Kearn",
-    "Bibtex": "TheLifeofMaryKearn",
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://www.tiki-toki.com/timeline/entry/67/The-Life-of-Mary-Kearns/",
-    "Venue": "Independent",
-    "Format/Published in": "Web",
-    "Description": "Storytelling instance",
-    "Abstract": "None",
-    "Authors": "Tiki-Toki",
-    "Main Topics": "Arts",
-    "DH": null,
-    "CH": "X",
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images"
-    ],
-    "Visualization Types": [
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Moving Camera"
-    ],
-    "Visualization-text Linking": [
-      "In-text References",
-      "Coordinated Scrolling"
-    ],
-    "VBS Composition": [
-      "Narrative Pathway"
-    ],
-    "Interactive Implementation": [
-      "Slideshow + Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [
-      "Objects"
-    ],
-    "Story Complexity": [
-      "Synchronic: Simple",
-      "Diachronic: Simple"
-    ],
-    "Story Schemata": [
-      "Object Biography"
-    ],
-    "Plot Patterns": [
-      "Destruction Plot",
-      "Metamorphosis Plot",
-      "Oscillation"
-    ],
-    "Story Arc & Hook": [
-      "Set-up",
-      "Rising Conflict / Supporting Facts",
-      "Climax / Main Insight",
-      "Resolution / Conclusion"
-    ],
-    "Linearity": [
-      "Linear Storytelling"
-    ],
-    "Factuality": [
-      "Factuality"
-    ],
-    "Other": [],
-    "Name/Title": "The Garden of Earthly Hieronymos Bosch",
-    "Bibtex": "HieronymusBosch",
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://storymap.knightlab.com/examples/bosch-garden/",
-    "Venue": "Independent",
-    "Format/Published in": "Web",
-    "Description": "Storytelling instance",
-    "Abstract": "None",
-    "Authors": "Knight Lab",
-    "Main Topics": "Arts",
-    "DH": null,
-    "CH": "X",
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Audio",
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Map",
-      "Chart",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Temporal Succession",
-      "Moving Camera"
-    ],
-    "Visualization-text Linking": [
-      "In-text References",
-      "Visualization Annotations",
-      "Coordinated Scrolling"
-    ],
-    "VBS Composition": [
-      "Pathways Through Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Scrollytelling",
-      "Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [
-      "Objects",
-      "Persons",
-      "Events",
-      "Places"
     ],
     "Story Complexity": [
       "Synchronic: Complex",
       "Diachronic: Medium"
     ],
     "Story Schemata": [
-      "Hybrid Biography",
-      "Biography Bundles"
+      "Larger Topic / Era"
     ],
-    "Plot Patterns": [
-      "Destruction Plot",
-      "Cause & Effect"
-    ],
-    "Story Arc & Hook": [
-      "Set-up",
-      "Rising Conflict / Supporting Facts",
-      "Climax / Main Insight",
-      "Resolution / Conclusion"
-    ],
-    "Linearity": [
-      "Linear Storytelling"
-    ],
-    "Factuality": [
-      "Factuality"
-    ],
-    "Other": [],
-    "Name/Title": "An Infamous Day",
-    "Bibtex": "AnInfamousDay",
-    "Traceability": "Author team prior knowlegde",
-    "Link": "http://storymaps.esri.com/stories/2016/pearl-harbor/index.html",
-    "Venue": "Independent",
-    "Format/Published in": "Web",
-    "Description": "Scrollytelling",
-    "Abstract": "None",
-    "Authors": "Esri",
-    "Main Topics": "History",
-    "DH": "x",
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Timeline",
-      "Map",
-      "Rendering",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Moving Camera"
-    ],
-    "Visualization-text Linking": [
-      "In-text References",
-      "Coordinated Scrolling"
-    ],
-    "VBS Composition": [
-      "Pathways Through Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Slideshow + Moving Camera"
-    ],
-    "Target Devices": [
-      "Mobile Device"
-    ],
-    "Entity-orientation": [
-      "Persons",
-      "Events",
-      "Places"
-    ],
-    "Story Complexity": [
-      "Synchronic: Simple",
-      "Diachronic: Medium"
-    ],
-    "Story Schemata": [
-      "Actor Biography"
-    ],
-    "Plot Patterns": [
-      "Emergence Plot"
-    ],
-    "Story Arc & Hook": [],
-    "Linearity": [
-      "Non-linear Storytellig"
-    ],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "Around the Globe with Reinhold W\u00fcrth",
-    "Bibtex": "AroundtheGlobe",
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://www.youtube.com/watch?v=PdUhkXaIUfE",
-    "Venue": "Independent",
-    "Format/Published in": "Web",
-    "Description": "Video demonstration",
-    "Abstract": "None",
-    "Authors": "Fluxguide",
-    "Main Topics": "Economics",
-    "DH": "X",
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Audio",
-      "Text",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Map",
-      "Rendering",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Moving Camera"
-    ],
-    "Visualization-text Linking": [
-      "In-text References",
-      "Visualization Annotations",
-      "Coordinated Scrolling"
-    ],
-    "VBS Composition": [
-      "Pathways Through Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Scrollytelling",
-      "Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [
-      "Places"
-    ],
-    "Story Complexity": [
-      "Synchronic: Simple",
-      "Diachronic: Simple"
-    ],
-    "Story Schemata": [
-      "Place Biography"
-    ],
-    "Plot Patterns": [
-      "Genesis Plot"
-    ],
+    "Plot Patterns": [],
     "Story Arc & Hook": [
       "Set-up",
       "Rising Conflict / Supporting Facts"
     ],
     "Linearity": [
-      "Linear Storytelling"
+      "Non-linear Storytellig"
     ],
     "Factuality": [
-      "Factuality",
-      "Fictitious Elements"
+      "Factuality"
     ],
     "Other": [],
-    "Name/Title": "Dante's Inferno",
-    "Bibtex": "DantesInferno",
-    "Traceability": "ESRI ArcGis Storymaps",
-    "Link": "https://storymaps.arcgis.com/stories/ad2a09720b75435b922396307e2d6004",
+    "Name/Title": "How You Play Spades is How You Play Life",
+    "Bibtex": "HowYouPlaySpadesisHowYouPlayLife",
+    "Traceability": "Pudding.cool",
+    "Link": "https://pudding.cool/2021/08/spades/",
     "Venue": "Independant",
     "Format/Published in": "Web",
     "Description": "Storytelling instance",
-    "Abstract": null,
-    "Authors": "Josef M\u00fcnzberger",
-    "Main Topics": "Arts",
-    "DH": null,
-    "CH": "x",
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Map",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Moving Camera"
-    ],
-    "Visualization-text Linking": [
-      "In-text References",
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Narrative Pathway"
-    ],
-    "Interactive Implementation": [
-      "Slideshow + Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [
-      "Persons",
-      "Places"
-    ],
-    "Story Complexity": [
-      "Synchronic: Simple",
-      "Diachronic: Medium"
-    ],
-    "Story Schemata": [
-      "Actor Biography"
-    ],
-    "Plot Patterns": [
-      "Metamorphosis Plot"
-    ],
-    "Story Arc & Hook": [],
-    "Linearity": [
-      "Linear Storytelling"
-    ],
-    "Factuality": [
-      "Fictitious Elements",
-      "Fictitious Story World"
-    ],
-    "Other": [],
-    "Name/Title": "Game of Throne Arya's Jouney",
-    "Bibtex": "GameofThrone",
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://storymap.knightlab.com/examples/aryas-journey/",
-    "Venue": "Independent",
-    "Format/Published in": "Web",
-    "Description": "Storytelling instance",
-    "Abstract": "None",
-    "Authors": "Knight Lab",
-    "Main Topics": "Arts",
+    "Abstract": "Many of us grew up playing Spades. But very a little information exists on how the card game developed and grew to become a fixture in African-American households. The game, like so many other things in the African-American community, is passed down from generation to generation. Spades is a constant topic of conversation for Black Twitter. Where users activelv debate how many books a hand has. clown a friend for reneging, or reminisce on the time ther got into it with their cousins during a particularly intense game. Spades has been written about in poems and the New York Times. It's been immortalized in Black TV shows and movies like '90s rom-com classic. The Best Man. The game's predecessor, Bid Whist, even inspired paintings by artists lIKE Annie Lee S SIX NO Uptown",
+    "Authors": "Gabrielle lone Hickmon",
+    "Main Topics": "Culture",
     "DH": null,
     "CH": "X",
-    "Image": null
+    "Image": "HowYouPlaySpadesisHowYouPlayLife.png"
   },
   {
     "Media Types": [
@@ -891,7 +838,7 @@
     "Main Topics": "Politics",
     "DH": "X",
     "CH": null,
-    "Image": null
+    "Image": "January1969MappingtheSitIn.png"
   },
   {
     "Media Types": [
@@ -976,6 +923,136 @@
   },
   {
     "Media Types": [
+      "Text",
+      "Images",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Rendering",
+      "Interaction"
+    ],
+    "Story Thread": [
+      "Temporal Succession"
+    ],
+    "Visualization-text Linking": [
+      "Visualization Legend",
+      "Visualization Annotations"
+    ],
+    "VBS Composition": [
+      "Rich Media Without Visualization"
+    ],
+    "Interactive Implementation": [
+      "Animation"
+    ],
+    "Target Devices": [
+      "Mobile Device",
+      "Augmented / Mixed Reality"
+    ],
+    "Entity-orientation": [
+      "Objects"
+    ],
+    "Story Complexity": [
+      "Synchronic: Simple",
+      "Diachronic: Simple"
+    ],
+    "Story Schemata": [
+      "Object Biography"
+    ],
+    "Plot Patterns": [
+      "Emergence Plot",
+      "Cause & Effect"
+    ],
+    "Story Arc & Hook": [
+      "Set-up",
+      "Rising Conflict / Supporting Facts",
+      "Climax / Main Insight",
+      "Resolution / Conclusion"
+    ],
+    "Linearity": [
+      "Linear Storytelling"
+    ],
+    "Factuality": [
+      "Factuality"
+    ],
+    "Other": [
+      "Gamification Elements"
+    ],
+    "Name/Title": "Kosmos Kaffee",
+    "Bibtex": "KosmosKaffee",
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://www.youtube.com/watch?v=I1_wsFFy_3U",
+    "Venue": "Independent",
+    "Format/Published in": "Web",
+    "Description": "Storytelling instance",
+    "Abstract": "Extending the museum mediation and the museum experience with AR. For the exhibition \u201cCosmos Coffee\u201d at Deutsches Museum, Munich,  Fluxguide explored the didactic potential of Augmented Reality. The AR app refers to the biological development of the coffee plant and playfully explains the biological component of coffee cultivation. User regulate the water balance and the sun in order to best fulfill the needs of the plant. They then can be enchanted by flowers and fruits. In various steps, the growth of the plant is animated. On harvest day, users learn how many cups of coffee they were able to grow with their plant.",
+    "Authors": "Fluxguide",
+    "Main Topics": "Culture",
+    "DH": null,
+    "CH": "X",
+    "Image": "KosmosKaffee.png"
+  },
+  {
+    "Media Types": [
+      "Text",
+      "Images",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Timeline",
+      "Map",
+      "Interaction"
+    ],
+    "Story Thread": [],
+    "Visualization-text Linking": [
+      "In-text References",
+      "Visualization Annotations"
+    ],
+    "VBS Composition": [
+      "Pathways Through Multiple Visualizations"
+    ],
+    "Interactive Implementation": [
+      "Slideshow"
+    ],
+    "Target Devices": [
+      "Desktop / Touchscreen"
+    ],
+    "Entity-orientation": [
+      "Events",
+      "Places"
+    ],
+    "Story Complexity": [
+      "Synchronic: Medium",
+      "Diachronic: Medium"
+    ],
+    "Story Schemata": [
+      "Larger Topic / Era"
+    ],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [
+      "Factuality"
+    ],
+    "Other": [],
+    "Name/Title": "Major Battles in the Napoleonic Wars",
+    "Exclude": [
+      ""
+    ],
+    "Bibtex": "MajorBattlesintheNapoleonicWars",
+    "Traceability": "Author team prior knowlegde",
+    "Link": "http://timemapper.okfnlabs.org/anon/0s5rzt-major-battles-in-the-napoleonic-wars",
+    "Venue": "Independent",
+    "Format/Published in": "Web",
+    "Description": "Storytelling instance",
+    "Abstract": "None",
+    "Authors": "Unknown",
+    "Main Topics": "History",
+    "DH": "x",
+    "CH": null,
+    "Image": null
+  },
+  {
+    "Media Types": [
       "Audio",
       "Text",
       "Film",
@@ -1045,7 +1122,7 @@
     "Main Topics": "History",
     "DH": null,
     "CH": "X",
-    "Image": null
+    "Image": "MapShowsHowHumansMigratedAcrossTheGlobe.png"
   },
   {
     "Media Types": [
@@ -1115,7 +1192,7 @@
     "Main Topics": "Arts",
     "DH": null,
     "CH": "x",
-    "Image": null
+    "Image": "WhiteMarmorean.png"
   },
   {
     "Media Types": [
@@ -1174,7 +1251,72 @@
     "Main Topics": "Culture",
     "DH": null,
     "CH": "x",
-    "Image": null
+    "Image": "MappingtheCatalogueofShips.png"
+  },
+  {
+    "Media Types": [
+      "Text",
+      "Images",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Timeline",
+      "Map",
+      "Interaction"
+    ],
+    "Story Thread": [
+      "Text"
+    ],
+    "Visualization-text Linking": [
+      "Coordinated Scrolling"
+    ],
+    "VBS Composition": [
+      "Timeline Visualization",
+      "Narrative Pathway"
+    ],
+    "Interactive Implementation": [
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [
+      "Desktop / Touchscreen",
+      "Mobile Device"
+    ],
+    "Entity-orientation": [
+      "Persons",
+      "Places"
+    ],
+    "Story Complexity": [
+      "Synchronic: Medium",
+      "Diachronic: Simple"
+    ],
+    "Story Schemata": [
+      "Biography Bundles"
+    ],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [
+      "Non-linear Storytellig"
+    ],
+    "Factuality": [
+      "Factuality"
+    ],
+    "Other": [],
+    "Name/Title": "Medieval Philosophers",
+    "Exclude": [
+      ""
+    ],
+    "Bibtex": "MedievalPhilosophers",
+    "Traceability": "Author team prior knowlegde",
+    "Link": "http://timemapper.okfnlabs.org/okfn/medieval-philosophers",
+    "Venue": "Independent",
+    "Format/Published in": "Web",
+    "Description": "Storytelling instance",
+    "Abstract": "None",
+    "Authors": "The Open Knowledge Foundation",
+    "Main Topics": "Arts",
+    "DH": null,
+    "CH": "x",
+    "Image": "MedievalPhilosophers.png"
   },
   {
     "Media Types": [
@@ -1249,7 +1391,79 @@
     "Main Topics": "History",
     "DH": null,
     "CH": "X",
-    "Image": null
+    "Image": "mercator.png"
+  },
+  {
+    "Media Types": [
+      "Text",
+      "Images",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Set",
+      "Graph",
+      "Chart"
+    ],
+    "Story Thread": [
+      "Text",
+      "Juxtaposition"
+    ],
+    "Visualization-text Linking": [
+      "Visualization Legend",
+      "Visualization Annotations"
+    ],
+    "VBS Composition": [
+      "Narrative Pathway",
+      "Stories With Multiple Visualizations"
+    ],
+    "Interactive Implementation": [
+      "Data Comic"
+    ],
+    "Target Devices": [
+      "Static Display"
+    ],
+    "Entity-orientation": [
+      "Objects",
+      "Persons",
+      "Sets"
+    ],
+    "Story Complexity": [
+      "Synchronic: Simple",
+      "Diachronic: Medium"
+    ],
+    "Story Schemata": [
+      "Hybrid Biography"
+    ],
+    "Plot Patterns": [
+      "Genesis Plot"
+    ],
+    "Story Arc & Hook": [
+      "Set-up",
+      "Rising Conflict / Supporting Facts",
+      "Climax / Main Insight",
+      "Resolution / Conclusion",
+      "Story Hook"
+    ],
+    "Linearity": [
+      "Linear Storytelling"
+    ],
+    "Factuality": [
+      "Factuality"
+    ],
+    "Other": [],
+    "Name/Title": "Miles Davis' Famous Albums",
+    "Bibtex": "kim2019",
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://www.microsoft.com/en-us/research/publication/datatoon-drawing-dynamic-network-comics-with-pen-touch-interaction/",
+    "Venue": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+    "Format/Published in": "Paper",
+    "Description": "Smithsonian National Museum of Natural History",
+    "Abstract": "None",
+    "Authors": "Kim, Nam Wook and Henry Riche, Nathalie and Bach, Benjamin and Xu, Guanpang A. and Brehmer, Matthew and Hinckley, Ken and Pahud, Michel and Xia, Haijun and McGuffin, Michael and Pfister, Hanspeter",
+    "Main Topics": "Arts",
+    "DH": null,
+    "CH": "X",
+    "Image": "MilesDavis'FamousAlbums.png"
   },
   {
     "Media Types": [
@@ -1325,7 +1539,7 @@
     "Main Topics": "Culture",
     "DH": null,
     "CH": "X",
-    "Image": null
+    "Image": "ObjectsofWonder.png"
   },
   {
     "Media Types": [
@@ -1404,7 +1618,7 @@
     "Main Topics": "Arts",
     "DH": null,
     "CH": "X",
-    "Image": null
+    "Image": "VanGogh.png"
   },
   {
     "Media Types": [
@@ -1448,7 +1662,8 @@
       "Larger Topic / Era"
     ],
     "Plot Patterns": [
-      "Cause & Effect"
+      "Cause & Effect",
+      "Oscillation"
     ],
     "Story Arc & Hook": [
       "Set-up",
@@ -1475,7 +1690,7 @@
     "Main Topics": "History",
     "DH": null,
     "CH": "X",
-    "Image": null
+    "Image": "SlaveRevolt.png"
   },
   {
     "Media Types": [
@@ -1542,7 +1757,75 @@
     "Main Topics": "Arts",
     "DH": null,
     "CH": "x",
-    "Image": null
+    "Image": "americanAuthors.png"
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Timeline",
+      "Set",
+      "Chart",
+      "Interaction"
+    ],
+    "Story Thread": [
+      "Speech",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [],
+    "VBS Composition": [
+      "Pathways Through Multiple Visualizations"
+    ],
+    "Interactive Implementation": [
+      "Animation"
+    ],
+    "Target Devices": [
+      "Desktop / Touchscreen"
+    ],
+    "Entity-orientation": [
+      "Sets",
+      "Events"
+    ],
+    "Story Complexity": [
+      "Synchronic: Complex",
+      "Diachronic: Complex"
+    ],
+    "Story Schemata": [
+      "Larger Topic / Era"
+    ],
+    "Plot Patterns": [
+      "Metamorphosis Plot"
+    ],
+    "Story Arc & Hook": [
+      "Set-up",
+      "Rising Conflict / Supporting Facts",
+      "Climax / Main Insight",
+      "Resolution / Conclusion",
+      "Story Hook"
+    ],
+    "Linearity": [
+      "Non-linear Storytellig"
+    ],
+    "Factuality": [
+      "Factuality"
+    ],
+    "Other": [],
+    "Name/Title": "The Fallen of World War II",
+    "Bibtex": "theFallen",
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://www.youtube.com/watch?v=DwKPFT-RioU",
+    "Venue": "Independent",
+    "Format/Published in": "Web",
+    "Description": "Video infographics",
+    "Abstract": "None",
+    "Authors": "Halloran, Neil",
+    "Main Topics": "History",
+    "DH": "x",
+    "CH": null,
+    "Image": "theFallen.png"
   },
   {
     "Media Types": [
@@ -1614,7 +1897,73 @@
     "Main Topics": "Culture",
     "DH": null,
     "CH": "x",
-    "Image": null
+    "Image": "TheGiantSquid.png"
+  },
+  {
+    "Media Types": [
+      "Text",
+      "Images",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Timeline",
+      "Interaction"
+    ],
+    "Story Thread": [
+      "Juxtaposition"
+    ],
+    "Visualization-text Linking": [
+      "In-text References",
+      "Visualization Legend"
+    ],
+    "VBS Composition": [
+      "Timeline Visualization"
+    ],
+    "Interactive Implementation": [
+      "Moving Camera"
+    ],
+    "Target Devices": [
+      "Desktop / Touchscreen",
+      "Mobile Device"
+    ],
+    "Entity-orientation": [
+      "Objects",
+      "Persons",
+      "Events"
+    ],
+    "Story Complexity": [
+      "Synchronic: Simple",
+      "Diachronic: Complex"
+    ],
+    "Story Schemata": [
+      "Actor Biography",
+      "Object Biography",
+      "Hybrid Biography"
+    ],
+    "Plot Patterns": [
+      "Emergence Plot"
+    ],
+    "Story Arc & Hook": [],
+    "Linearity": [
+      "Non-linear Storytellig"
+    ],
+    "Factuality": [
+      "Factuality"
+    ],
+    "Other": [],
+    "Name/Title": "The Life of Mary Kearn",
+    "Bibtex": "TheLifeofMaryKearn",
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://www.tiki-toki.com/timeline/entry/67/The-Life-of-Mary-Kearns/",
+    "Venue": "Independent",
+    "Format/Published in": "Web",
+    "Description": "Storytelling instance",
+    "Abstract": "None",
+    "Authors": "Tiki-Toki",
+    "Main Topics": "Arts",
+    "DH": null,
+    "CH": "X",
+    "Image": "TheLifeOfMaryKearn.png"
   },
   {
     "Media Types": [
@@ -1685,83 +2034,7 @@
     "Main Topics": "Culture",
     "DH": null,
     "CH": "x",
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Audio",
-      "Text",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Timeline",
-      "Map",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Speech",
-      "Juxtaposition"
-    ],
-    "Visualization-text Linking": [
-      "In-text References",
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Timeline Visualization",
-      "Mixed Pathway & Exploration",
-      "Stories With Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Annotated Chart"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device",
-      "Augmented / Mixed Reality"
-    ],
-    "Entity-orientation": [
-      "Objects",
-      "Events",
-      "Places"
-    ],
-    "Story Complexity": [
-      "Synchronic: Medium",
-      "Diachronic: Medium"
-    ],
-    "Story Schemata": [
-      "Object Biography",
-      "Larger Topic / Era"
-    ],
-    "Plot Patterns": [
-      "Emergence Plot"
-    ],
-    "Story Arc & Hook": [
-      "Set-up",
-      "Rising Conflict / Supporting Facts",
-      "Climax / Main Insight",
-      "Resolution / Conclusion"
-    ],
-    "Linearity": [
-      "Non-linear Storytellig"
-    ],
-    "Factuality": [
-      "Factuality"
-    ],
-    "Other": [],
-    "Name/Title": "The Whiskey Rebellion: An Interactive Mapping Project",
-    "Bibtex": "whiskeyRebellion",
-    "Traceability": "Author team prior knowlegde",
-    "Link": "http://maptherebellion.com/interactive-map",
-    "Venue": "Independent",
-    "Format/Published in": "Web",
-    "Description": "Storytelling instance",
-    "Abstract": "None",
-    "Authors": "Krom, Stephanie ",
-    "Main Topics": "History",
-    "DH": "X",
-    "CH": null,
-    "Image": null
+    "Image": "MarcoPolo.png"
   },
   {
     "Media Types": [
@@ -1824,9 +2097,85 @@
     "Abstract": "None",
     "Authors": "Knight Lab",
     "Main Topics": "History",
-    "DH": "X",
+    "DH": null,
     "CH": null,
-    "Image": null
+    "Image": "USWestwardExpansion.png"
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text",
+      "Images",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Map",
+      "Rendering",
+      "Interaction"
+    ],
+    "Story Thread": [
+      "Text",
+      "Speech"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
+    ],
+    "VBS Composition": [
+      "Narrative Pathway"
+    ],
+    "Interactive Implementation": [],
+    "Target Devices": [
+      "Mobile Device",
+      "Augmented / Mixed Reality"
+    ],
+    "Entity-orientation": [
+      "Objects",
+      "Persons",
+      "Events",
+      "Places"
+    ],
+    "Story Complexity": [
+      "Synchronic: Medium",
+      "Diachronic: Simple"
+    ],
+    "Story Schemata": [
+      "Actor Biography",
+      "Object Biography",
+      "Place Biography",
+      "Trees",
+      "Larger Topic / Multi-era"
+    ],
+    "Plot Patterns": [
+      "Genesis Plot",
+      "Emergence Plot"
+    ],
+    "Story Arc & Hook": [
+      "Story Hook"
+    ],
+    "Linearity": [
+      "Non-linear Storytellig"
+    ],
+    "Factuality": [
+      "Factuality",
+      "Fictitious Elements"
+    ],
+    "Other": [
+      "Gamification Elements"
+    ],
+    "Name/Title": "Virtulleum, Tulln",
+    "Bibtex": "Virtulleum",
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://www.youtube.com/watch?v=nPvFvfXV8h0",
+    "Venue": "Independent",
+    "Format/Published in": "Web",
+    "Description": "Video demonstration",
+    "Abstract": "None",
+    "Authors": "Fluxguide",
+    "Main Topics": "Culture",
+    "DH": null,
+    "CH": "X",
+    "Image": "Virtulleum.png"
   },
   {
     "Media Types": [
@@ -1906,7 +2255,7 @@
     "Main Topics": "Culture",
     "DH": null,
     "CH": "X",
-    "Image": null
+    "Image": "MusEcologyScrollytelling.png"
   },
   {
     "Media Types": [
@@ -1957,7 +2306,8 @@
     ],
     "Plot Patterns": [
       "Destruction Plot",
-      "Cause & Effect"
+      "Cause & Effect",
+      "Convergence"
     ],
     "Story Arc & Hook": [
       "Set-up",
@@ -1989,288 +2339,12 @@
   },
   {
     "Media Types": [
-      "Text",
-      "Images",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Set",
-      "Graph",
-      "Chart"
-    ],
-    "Story Thread": [
-      "Text",
-      "Juxtaposition"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Narrative Pathway",
-      "Stories With Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Data Comic"
-    ],
-    "Target Devices": [
-      "Static Display"
-    ],
-    "Entity-orientation": [
-      "Objects",
-      "Persons",
-      "Sets"
-    ],
-    "Story Complexity": [
-      "Synchronic: Simple",
-      "Diachronic: Medium"
-    ],
-    "Story Schemata": [
-      "Hybrid Biography"
-    ],
-    "Plot Patterns": [
-      "Genesis Plot"
-    ],
-    "Story Arc & Hook": [
-      "Set-up",
-      "Rising Conflict / Supporting Facts",
-      "Climax / Main Insight",
-      "Resolution / Conclusion",
-      "Story Hook"
-    ],
-    "Linearity": [
-      "Linear Storytelling"
-    ],
-    "Factuality": [
-      "Factuality"
-    ],
-    "Other": [],
-    "Name/Title": "Miles Davis' Famous Albums",
-    "Bibtex": "kim2019",
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://www.microsoft.com/en-us/research/publication/datatoon-drawing-dynamic-network-comics-with-pen-touch-interaction/",
-    "Venue": "CHI '19: Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
-    "Format/Published in": "Paper",
-    "Description": "Smithsonian National Museum of Natural History",
-    "Abstract": "None",
-    "Authors": "Kim, Nam Wook and Henry Riche, Nathalie and Bach, Benjamin and Xu, Guanpang A. and Brehmer, Matthew and Hinckley, Ken and Pahud, Michel and Xia, Haijun and McGuffin, Michael and Pfister, Hanspeter",
-    "Main Topics": "Arts",
-    "DH": null,
-    "CH": "X",
-    "Image": "MilesDavis'FamousAlbums.png"
-  },
-  {
-    "Media Types": [
       "Audio",
       "Text",
-      "Images",
-      "Film",
       "Visualization"
     ],
     "Visualization Types": [
-      "Timeline",
-      "Chart"
-    ],
-    "Story Thread": [
-      "Text",
-      "Speech",
-      "Temporal Succession"
-    ],
-    "Visualization-text Linking": [
-      "In-text References"
-    ],
-    "VBS Composition": [
-      "Timeline Visualization"
-    ],
-    "Interactive Implementation": [
-      "Slideshow"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [
-      "Objects",
-      "Persons"
-    ],
-    "Story Complexity": [
-      "Synchronic: Complex",
-      "Diachronic: Medium"
-    ],
-    "Story Schemata": [
-      "Hybrid Biography",
-      "Biography Sequences"
-    ],
-    "Plot Patterns": [
-      "Emergence Plot"
-    ],
-    "Story Arc & Hook": [
-      "Set-up",
-      "Rising Conflict / Supporting Facts",
-      "Climax / Main Insight",
-      "Resolution / Conclusion",
-      "Story Hook"
-    ],
-    "Linearity": [
-      "Linear Storytelling"
-    ],
-    "Factuality": [
-      "Factuality"
-    ],
-    "Other": [],
-    "Name/Title": "Are men singing higher in pop songs today?",
-    "Bibtex": "MenSinging",
-    "Traceability": "Pudding.cool",
-    "Link": "https://pudding.cool/2019/08/register/",
-    "Venue": "Independant",
-    "Format/Published in": "Web",
-    "Description": "Storytelling instance",
-    "Abstract": "Visual Analysis of Register averages of different artists/songs through the last century.",
-    "Authors": "Matt Daniels",
-    "Main Topics": "Arts",
-    "DH": null,
-    "CH": "X",
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Map",
-      "Set",
-      "Chart"
-    ],
-    "Story Thread": [
-      "Text",
-      "Juxtaposition"
-    ],
-    "Visualization-text Linking": [
-      "In-text References",
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Stories With Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Scrollytelling"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [
-      "Events"
-    ],
-    "Story Complexity": [
-      "Synchronic: Complex",
-      "Diachronic: Medium"
-    ],
-    "Story Schemata": [
-      "Larger Topic / Era"
-    ],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [
-      "Set-up",
-      "Rising Conflict / Supporting Facts"
-    ],
-    "Linearity": [
-      "Non-linear Storytellig"
-    ],
-    "Factuality": [
-      "Factuality"
-    ],
-    "Other": [],
-    "Name/Title": "How You Play Spades is How You Play Life",
-    "Bibtex": "HowYouPlaySpadesisHowYouPlayLife",
-    "Traceability": "Pudding.cool",
-    "Link": "https://pudding.cool/2021/08/spades/",
-    "Venue": "Independant",
-    "Format/Published in": "Web",
-    "Description": "Storytelling instance",
-    "Abstract": "Many of us grew up playing Spades. But very a little information exists on how the card game developed and grew to become a fixture in African-American households. The game, like so many other things in the African-American community, is passed down from generation to generation. Spades is a constant topic of conversation for Black Twitter. Where users activelv debate how many books a hand has. clown a friend for reneging, or reminisce on the time ther got into it with their cousins during a particularly intense game. Spades has been written about in poems and the New York Times. It's been immortalized in Black TV shows and movies like '90s rom-com classic. The Best Man. The game's predecessor, Bid Whist, even inspired paintings by artists lIKE Annie Lee S SIX NO Uptown",
-    "Authors": "Gabrielle lone Hickmon",
-    "Main Topics": "Culture",
-    "DH": null,
-    "CH": "X",
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Audio",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Timeline",
-      "Set",
       "Chart",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Speech",
-      "Moving Camera"
-    ],
-    "Visualization-text Linking": [],
-    "VBS Composition": [
-      "Pathways Through Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Animation"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen"
-    ],
-    "Entity-orientation": [
-      "Sets",
-      "Events"
-    ],
-    "Story Complexity": [
-      "Synchronic: Complex",
-      "Diachronic: Complex"
-    ],
-    "Story Schemata": [
-      "Larger Topic / Era"
-    ],
-    "Plot Patterns": [
-      "Metamorphosis Plot"
-    ],
-    "Story Arc & Hook": [
-      "Set-up",
-      "Rising Conflict / Supporting Facts",
-      "Climax / Main Insight",
-      "Resolution / Conclusion",
-      "Story Hook"
-    ],
-    "Linearity": [
-      "Non-linear Storytellig"
-    ],
-    "Factuality": [
-      "Factuality"
-    ],
-    "Other": [],
-    "Name/Title": "The Fallen of World War II",
-    "Bibtex": "theFallen",
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://www.youtube.com/watch?v=DwKPFT-RioU",
-    "Venue": "Independent",
-    "Format/Published in": "Web",
-    "Description": "Video infographics",
-    "Abstract": "None",
-    "Authors": "Halloran, Neil",
-    "Main Topics": "History",
-    "DH": "x",
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Audio",
-      "Text",
-      "Visualization"
-    ],
-    "Visualization Types": [
       "Interaction"
     ],
     "Story Thread": [
@@ -2336,565 +2410,49 @@
     "Main Topics": "Arts",
     "DH": null,
     "CH": "X",
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Rendering",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text"
-    ],
-    "Visualization-text Linking": [
-      "In-text References"
-    ],
-    "VBS Composition": [
-      "Mixed Pathway & Exploration"
-    ],
-    "Interactive Implementation": [
-      "Scrollytelling"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen"
-    ],
-    "Entity-orientation": [
-      "Objects"
-    ],
-    "Story Complexity": [
-      "Synchronic: Complex",
-      "Diachronic: Complex"
-    ],
-    "Story Schemata": [
-      "Larger Topic / Era"
-    ],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [
-      "Set-up",
-      "Rising Conflict / Supporting Facts",
-      "Story Hook"
-    ],
-    "Linearity": [
-      "Linear Storytelling"
-    ],
-    "Factuality": [
-      "Factuality"
-    ],
-    "Other": [],
-    "Name/Title": "Daily Life In The Middle Ages",
-    "Bibtex": "DailyLifeInTheMiddleAges",
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://alltagimmittelalter.gnm.de/",
-    "Venue": "Independent",
-    "Format/Published in": "Web",
-    "Description": "Storytelling instance",
-    "Abstract": "None",
-    "Authors": "Germanisches National Museum",
-    "Main Topics": "History",
-    "DH": null,
-    "CH": "x",
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Rendering",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Temporal Succession"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Rich Media Without Visualization"
-    ],
-    "Interactive Implementation": [
-      "Animation"
-    ],
-    "Target Devices": [
-      "Mobile Device",
-      "Augmented / Mixed Reality"
-    ],
-    "Entity-orientation": [
-      "Objects"
-    ],
-    "Story Complexity": [
-      "Synchronic: Simple",
-      "Diachronic: Simple"
-    ],
-    "Story Schemata": [
-      "Object Biography"
-    ],
-    "Plot Patterns": [
-      "Emergence Plot",
-      "Cause & Effect"
-    ],
-    "Story Arc & Hook": [
-      "Set-up",
-      "Rising Conflict / Supporting Facts",
-      "Climax / Main Insight",
-      "Resolution / Conclusion"
-    ],
-    "Linearity": [
-      "Linear Storytelling"
-    ],
-    "Factuality": [
-      "Factuality"
-    ],
-    "Other": [
-      "Gamification Elements"
-    ],
-    "Name/Title": "Kosmos Kaffee",
-    "Bibtex": "KosmosKaffee",
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://www.youtube.com/watch?v=I1_wsFFy_3U",
-    "Venue": "Independent",
-    "Format/Published in": "Web",
-    "Description": "Storytelling instance",
-    "Abstract": "Extending the museum mediation and the museum experience with AR. For the exhibition \u201cCosmos Coffee\u201d at Deutsches Museum, Munich,  Fluxguide explored the didactic potential of Augmented Reality. The AR app refers to the biological development of the coffee plant and playfully explains the biological component of coffee cultivation. User regulate the water balance and the sun in order to best fulfill the needs of the plant. They then can be enchanted by flowers and fruits. In various steps, the growth of the plant is animated. On harvest day, users learn how many cups of coffee they were able to grow with their plant.",
-    "Authors": "Fluxguide",
-    "Main Topics": "Culture",
-    "DH": null,
-    "CH": "X",
-    "Image": null
+    "Image": "Wonky.png"
   },
   {
     "Media Types": [
       "Audio",
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Map",
-      "Rendering",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Speech"
-    ],
-    "Visualization-text Linking": [
-      "In-text References"
-    ],
-    "VBS Composition": [
-      "Narrative Pathway"
-    ],
-    "Interactive Implementation": [],
-    "Target Devices": [
-      "Mobile Device",
-      "Augmented / Mixed Reality"
-    ],
-    "Entity-orientation": [
-      "Objects",
-      "Persons",
-      "Events",
-      "Places"
-    ],
-    "Story Complexity": [
-      "Synchronic: Medium",
-      "Diachronic: Simple"
-    ],
-    "Story Schemata": [
-      "Actor Biography",
-      "Object Biography",
-      "Place Biography",
-      "Trees",
-      "Larger Topic / Multi-era"
-    ],
-    "Plot Patterns": [
-      "Genesis Plot",
-      "Emergence Plot"
-    ],
-    "Story Arc & Hook": [
-      "Story Hook"
-    ],
-    "Linearity": [
-      "Non-linear Storytellig"
-    ],
-    "Factuality": [
-      "Factuality",
-      "Fictitious Elements"
-    ],
-    "Other": [
-      "Gamification Elements"
-    ],
-    "Name/Title": "Virtulleum, Tulln",
-    "Bibtex": "Virtulleum",
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://www.youtube.com/watch?v=nPvFvfXV8h0",
-    "Venue": "Independent",
-    "Format/Published in": "Web",
-    "Description": "Video demonstration",
-    "Abstract": "None",
-    "Authors": "Fluxguide",
-    "Main Topics": "Culture",
-    "DH": null,
-    "CH": "X",
-    "Image": null
-  },
-  {
-    "Media Types": [
       "Text",
       "Images",
       "Visualization"
     ],
     "Visualization Types": [
       "Timeline",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Temporal Succession"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Timeline Visualization",
-      "Mixed Pathway & Exploration"
-    ],
-    "Interactive Implementation": [
-      "Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "Tiki-Toki",
-    "Bibtex": null,
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://www.tiki-toki.com",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": "Online tool for the creation of interactive 2D and 3D timelines",
-    "Abstract": "None",
-    "Authors": "None",
-    "Main Topics": "TODO",
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Audio",
-      "Text",
-      "Images",
-      "Film"
-    ],
-    "Visualization Types": [],
-    "Story Thread": [
-      "Speech",
-      "Temporal Succession"
-    ],
-    "Visualization-text Linking": [],
-    "VBS Composition": [
-      "Rich Media Without Visualization",
-      "Mixed Pathway & Exploration"
-    ],
-    "Interactive Implementation": [
-      "Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Virtual Reality"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "Thinglink",
-    "Bibtex": null,
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://www.thinglink.com/",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": "A tool for creating virtual tours and scenarios",
-    "Abstract": "None",
-    "Authors": "None",
-    "Main Topics": "TODO",
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Audio",
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Timeline",
-      "Map",
-      "Set",
-      "Graph",
-      "Chart"
-    ],
-    "Story Thread": [
-      "Speech",
-      "Temporal Succession",
-      "Moving Camera"
-    ],
-    "Visualization-text Linking": [],
-    "VBS Composition": [
-      "Rich Media Without Visualization",
-      "Narrative Pathway",
-      "Stories With Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Animation",
-      "Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device",
-      "Large Display / Wall",
-      "Augmented / Mixed Reality"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "Vizrt",
-    "Bibtex": null,
-    "Traceability": "Reference from reviewer",
-    "Link": "https://www.vizrt.com/",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": "A tool for augmented reality visual storytelling",
-    "Abstract": "None",
-    "Authors": "Vizrt",
-    "Main Topics": "Augmented reality",
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Audio",
-      "Text",
-      "Images",
-      "Film"
-    ],
-    "Visualization Types": [],
-    "Story Thread": [
-      "Text",
-      "Temporal Succession"
-    ],
-    "Visualization-text Linking": [],
-    "VBS Composition": [
-      "Rich Media Without Visualization",
-      "Narrative Pathway"
-    ],
-    "Interactive Implementation": [
-      "Slideshow"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "Narralive Story Maker ",
-    "Bibtex": null,
-    "Traceability": "ACM CHI, Emotive Project (https://www.emotiveproject.eu/pages/dissemination/index.html)",
-    "Link": "https://www.narralive.org/",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": "A storyboard editor and mobile player app, developed with the objective to assist the creative process and promote research on different aspects of the application of mobile digital storytelling in cultural heritage settings.",
-    "Abstract": "None",
-    "Authors": "National and Kapodistrian University of Athens",
-    "Main Topics": "Storyborad creator and player",
-    "DH": null,
-    "CH": "X",
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Timeline",
-      "Map",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Juxtaposition",
-      "Temporal Succession",
-      "Moving Camera"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Timeline Visualization",
-      "Narrative Pathway",
-      "Mixed Pathway & Exploration"
-    ],
-    "Interactive Implementation": [
-      "Slideshow + Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "The Story Map Building and Visualization Tool (SMBVT)",
-    "Bibtex": null,
-    "Traceability": "Via the Mingei-Project",
-    "Link": "https://tool.dlnarratives.eu/ / https://github.com/EmanueleLenzi92/SMBVT",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": "SMBVT is semi-automatic tool to construct and visualise narratives, intended as semantic networks of events related to each other through semantic relations, in form of story maps and timeline.",
-    "Abstract": "None",
-    "Authors": "Valentina Bartalesi, Nicol\u00f2 Pratelli, Emanuele Lenzi",
-    "Main Topics": "TODO",
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Map",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Juxtaposition",
-      "Temporal Succession",
-      "Moving Camera"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Narrative Pathway",
-      "Mixed Pathway & Exploration"
-    ],
-    "Interactive Implementation": [
-      "Slideshow + Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "Humap",
-    "Bibtex": null,
-    "Traceability": "Google: \"geospatial storytelling\"",
-    "Link": "https://humap.me/",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": null,
-    "Abstract": null,
-    "Authors": null,
-    "Main Topics": null,
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Audio",
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Map",
       "Set",
       "Chart",
+      "Rendering",
       "Interaction"
     ],
     "Story Thread": [
       "Text",
-      "Speech",
       "Juxtaposition",
+      "Temporal Succession",
       "Moving Camera"
     ],
     "Visualization-text Linking": [
       "In-text References",
       "Visualization Legend",
-      "Visualization Annotations",
       "Coordinated Scrolling"
     ],
     "VBS Composition": [
-      "Rich Media Without Visualization",
+      "Timeline Visualization",
+      "Multi-timeline Visualization",
       "Narrative Pathway",
       "Mixed Pathway & Exploration",
-      "Stories With Multiple Visualizations",
-      "Pathways Through Multiple Visualizations"
+      "Stories With Multiple Visualizations"
     ],
     "Interactive Implementation": [
       "Annotated Chart",
+      "Data Comic",
       "Scrollytelling",
       "Animation",
-      "Slideshow",
-      "Moving Camera"
+      "Slideshow + Moving Camera"
     ],
     "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
+      "Static Display"
     ],
     "Entity-orientation": [],
     "Story Complexity": [],
@@ -2914,41 +2472,87 @@
     "Abstract": null,
     "Authors": null,
     "Main Topics": null,
-    "DH": null,
-    "CH": null,
+    "DH": "X",
+    "CH": "X",
     "Image": null
   },
   {
     "Media Types": [
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
+      "Audio",
+      "Images"
     ],
     "Visualization Types": [
       "Set",
-      "Graph"
+      "Rendering"
+    ],
+    "Story Thread": [
+      "Speech",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
+    ],
+    "VBS Composition": [
+      "Timeline Visualization"
+    ],
+    "Interactive Implementation": [
+      "Data Comic",
+      "Moving Camera",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "ChartAccent",
+    "Bibtex": null,
+    "Traceability": "From Zhao & Elmqvist paper",
+    "Link": "https://chartaccent.github.io/#section-publication",
+    "Venue": null,
+    "Format/Published in": "Paper/Web",
+    "Description": null,
+    "Abstract": null,
+    "Authors": null,
+    "Main Topics": null,
+    "DH": null,
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text",
+      "Images"
+    ],
+    "Visualization Types": [
+      "Timeline",
+      "Map",
+      "Rendering"
     ],
     "Story Thread": [
       "Text",
-      "Juxtaposition"
+      "Moving Camera"
     ],
     "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
+      "In-text References"
     ],
     "VBS Composition": [
-      "Narrative Pathway",
+      "Timeline Visualization",
+      "Mixed Pathway & Exploration",
       "Pathways Through Multiple Visualizations"
     ],
     "Interactive Implementation": [
-      "Data Comic"
+      "Moving Camera",
+      "Slideshow + Moving Camera"
     ],
     "Target Devices": [
       "Static Display",
-      "Desktop / Touchscreen",
-      "Mobile Device",
-      "Large Display / Wall"
+      "Desktop / Touchscreen"
     ],
     "Entity-orientation": [],
     "Story Complexity": [],
@@ -2969,42 +2573,39 @@
     "Authors": null,
     "Main Topics": null,
     "DH": null,
-    "CH": null,
+    "CH": "X",
     "Image": null
   },
   {
     "Media Types": [
-      "Text",
+      "Images",
+      "Film",
       "Visualization"
     ],
     "Visualization Types": [
-      "Timeline",
-      "Map",
+      "Set",
       "Chart",
-      "Interaction"
+      "Rendering"
     ],
     "Story Thread": [
       "Text",
-      "Juxtaposition",
-      "Temporal Succession"
+      "Speech",
+      "Moving Camera"
     ],
     "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
+      "In-text References"
     ],
     "VBS Composition": [
       "Timeline Visualization",
-      "Narrative Pathway",
-      "Mixed Pathway & Exploration"
+      "Multi-timeline Visualization",
+      "Stories With Multiple Visualizations"
     ],
     "Interactive Implementation": [
-      "Annotated Chart",
-      "Animation",
-      "Slideshow"
+      "Data Comic",
+      "Scrollytelling",
+      "Slideshow + Moving Camera"
     ],
-    "Target Devices": [
-      "Desktop / Touchscreen"
-    ],
+    "Target Devices": [],
     "Entity-orientation": [],
     "Story Complexity": [],
     "Story Schemata": [],
@@ -3024,7 +2625,7 @@
     "Authors": null,
     "Main Topics": null,
     "DH": null,
-    "CH": null,
+    "CH": "X",
     "Image": null
   },
   {
@@ -3039,36 +2640,33 @@
       "Timeline",
       "Map",
       "Set",
-      "Graph",
       "Chart",
+      "Rendering",
       "Interaction"
     ],
     "Story Thread": [
-      "Text",
       "Speech",
-      "Temporal Succession"
+      "Moving Camera"
     ],
     "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations",
-      "Coordinated Scrolling"
+      "In-text References",
+      "Visualization Legend"
     ],
     "VBS Composition": [
-      "Timeline Visualization",
-      "Mixed Pathway & Exploration",
+      "Multi-timeline Visualization",
+      "Narrative Pathway",
       "Stories With Multiple Visualizations"
     ],
     "Interactive Implementation": [
       "Annotated Chart",
+      "Data Comic",
       "Scrollytelling",
-      "Animation",
       "Slideshow",
       "Slideshow + Moving Camera"
     ],
     "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device",
-      "Large Display / Wall"
+      "Static Display",
+      "Desktop / Touchscreen"
     ],
     "Entity-orientation": [],
     "Story Complexity": [],
@@ -3088,8 +2686,8 @@
     "Abstract": null,
     "Authors": null,
     "Main Topics": null,
-    "DH": null,
-    "CH": null,
+    "DH": "X",
+    "CH": "X",
     "Image": null
   },
   {
@@ -3101,35 +2699,32 @@
       "Visualization"
     ],
     "Visualization Types": [
-      "Timeline",
-      "Map",
+      "Set",
       "Chart",
+      "Rendering",
       "Interaction"
     ],
     "Story Thread": [
-      "Text",
       "Speech",
-      "Temporal Succession",
+      "Juxtaposition",
       "Moving Camera"
     ],
     "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
+      "In-text References"
     ],
     "VBS Composition": [
       "Timeline Visualization",
-      "Narrative Pathway",
-      "Mixed Pathway & Exploration"
+      "Multi-timeline Visualization",
+      "Stories With Multiple Visualizations"
     ],
     "Interactive Implementation": [
-      "Annotated Chart",
+      "Data Comic",
       "Animation",
-      "Moving Camera"
+      "Slideshow + Moving Camera"
     ],
     "Target Devices": [
-      "Desktop / Touchscreen",
-      "Virtual Reality",
-      "Augmented / Mixed Reality"
+      "Large Display / Wall",
+      "Multi-touch / Table"
     ],
     "Entity-orientation": [],
     "Story Complexity": [],
@@ -3149,69 +2744,8 @@
     "Abstract": null,
     "Authors": null,
     "Main Topics": null,
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Map",
-      "Set",
-      "Graph",
-      "Chart",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Juxtaposition",
-      "Temporal Succession"
-    ],
-    "Visualization-text Linking": [
-      "In-text References",
-      "Visualization Legend",
-      "Visualization Annotations",
-      "Coordinated Scrolling"
-    ],
-    "VBS Composition": [
-      "Rich Media Without Visualization",
-      "Narrative Pathway",
-      "Stories With Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Scrollytelling",
-      "Animation",
-      "Slideshow"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "Idyll Studio",
-    "Bibtex": null,
-    "Traceability": "Reference from reviewer",
-    "Link": "https://doi.org/10.1145/3472749.3474731",
-    "Venue": "Symposium on User Interface Software and Technology",
-    "Format/Published in": "Paper",
-    "Description": null,
-    "Abstract": null,
-    "Authors": null,
-    "Main Topics": null,
-    "DH": null,
-    "CH": null,
+    "DH": "X",
+    "CH": "X",
     "Image": null
   },
   {
@@ -3224,96 +2758,31 @@
     ],
     "Visualization Types": [
       "Timeline",
-      "Map",
       "Set",
-      "Graph",
       "Chart",
-      "Interaction"
+      "Rendering"
     ],
     "Story Thread": [
-      "Text",
-      "Temporal Succession"
+      "Speech",
+      "Moving Camera"
     ],
     "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
+      "In-text References"
     ],
     "VBS Composition": [
+      "Rich Media Without Visualization",
       "Timeline Visualization",
       "Multi-timeline Visualization",
       "Narrative Pathway",
       "Mixed Pathway & Exploration",
-      "Stories With Multiple Visualizations",
-      "Pathways Through Multiple Visualizations"
+      "Stories With Multiple Visualizations"
     ],
     "Interactive Implementation": [
-      "Annotated Chart",
-      "Slideshow"
+      "Scrollytelling",
+      "Moving Camera",
+      "Slideshow + Moving Camera"
     ],
-    "Target Devices": [
-      "Static Display",
-      "Desktop / Touchscreen"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "Microsoft Power BI",
-    "Bibtex": null,
-    "Traceability": "Reference from reviewer",
-    "Link": "https://powerbi.microsoft.com/",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": null,
-    "Abstract": null,
-    "Authors": null,
-    "Main Topics": null,
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Timeline",
-      "Map",
-      "Set",
-      "Chart",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Temporal Succession"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Timeline Visualization",
-      "Multi-timeline Visualization",
-      "Narrative Pathway",
-      "Mixed Pathway & Exploration",
-      "Stories With Multiple Visualizations",
-      "Pathways Through Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Annotated Chart",
-      "Slideshow"
-    ],
-    "Target Devices": [
-      "Static Display",
-      "Desktop / Touchscreen"
-    ],
+    "Target Devices": [],
     "Entity-orientation": [],
     "Story Complexity": [],
     "Story Schemata": [],
@@ -3333,7 +2802,7 @@
     "Authors": null,
     "Main Topics": null,
     "DH": null,
-    "CH": null,
+    "CH": "X",
     "Image": null
   },
   {
@@ -3341,530 +2810,31 @@
       "Audio",
       "Text",
       "Images",
-      "Film",
       "Visualization"
     ],
     "Visualization Types": [
-      "Timeline",
-      "Map",
       "Chart",
-      "Interaction"
+      "Rendering"
     ],
     "Story Thread": [
       "Text",
-      "Juxtaposition",
-      "Moving Camera"
+      "Speech",
+      "Juxtaposition"
     ],
     "Visualization-text Linking": [
       "In-text References",
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Rich Media Without Visualization",
-      "Timeline Visualization",
-      "Narrative Pathway",
-      "Mixed Pathway & Exploration",
-      "Stories With Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "Neatline",
-    "Bibtex": null,
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://neatline.org/",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": null,
-    "Abstract": null,
-    "Authors": null,
-    "Main Topics": null,
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Audio",
-      "Text",
-      "Images",
-      "Film"
-    ],
-    "Visualization Types": [],
-    "Story Thread": [
-      "Text",
-      "Juxtaposition",
-      "Moving Camera"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Annotations",
       "Coordinated Scrolling"
     ],
     "VBS Composition": [
-      "Rich Media Without Visualization",
-      "Narrative Pathway",
-      "Stories With Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Scrollytelling",
-      "Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "Shorthand",
-    "Bibtex": null,
-    "Traceability": "Google: \"content creation scrollytelling stories\"",
-    "Link": "https://shorthand.com/",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": null,
-    "Abstract": null,
-    "Authors": null,
-    "Main Topics": null,
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Chart",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Juxtaposition",
-      "Temporal Succession"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Narrative Pathway"
-    ],
-    "Interactive Implementation": [
-      "Annotated Chart"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "StorylineJS",
-    "Bibtex": null,
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://storyline.knightlab.com/",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": null,
-    "Abstract": null,
-    "Authors": null,
-    "Main Topics": null,
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Audio",
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Map",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Juxtaposition",
-      "Moving Camera"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Rich Media Without Visualization",
-      "Narrative Pathway",
-      "Mixed Pathway & Exploration"
-    ],
-    "Interactive Implementation": [
-      "Slideshow + Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "StoryMapJS",
-    "Bibtex": null,
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://storymap.knightlab.com/?",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": null,
-    "Abstract": null,
-    "Authors": null,
-    "Main Topics": null,
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Audio",
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Timeline",
-      "Map",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Juxtaposition",
-      "Temporal Succession"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
       "Timeline Visualization",
-      "Narrative Pathway"
-    ],
-    "Interactive Implementation": [
-      "Slideshow"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "TimelineJS",
-    "Bibtex": null,
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://timeline.knightlab.com/",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": null,
-    "Abstract": null,
-    "Authors": null,
-    "Main Topics": null,
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Timeline",
-      "Map",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Juxtaposition",
-      "Temporal Succession",
-      "Moving Camera"
-    ],
-    "Visualization-text Linking": [
-      "In-text References",
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Timeline Visualization",
-      "Narrative Pathway",
-      "Mixed Pathway & Exploration"
+      "Multi-timeline Visualization"
     ],
     "Interactive Implementation": [
       "Slideshow",
       "Slideshow + Moving Camera"
     ],
     "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "TimeMapper",
-    "Bibtex": null,
-    "Traceability": "Via Knight Lab",
-    "Link": "http://timemapper.okfnlabs.org",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": null,
-    "Abstract": null,
-    "Authors": null,
-    "Main Topics": null,
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Film"
-    ],
-    "Visualization Types": [],
-    "Story Thread": [
-      "Text"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Annotations",
-      "Coordinated Scrolling"
-    ],
-    "VBS Composition": [
-      "Rich Media Without Visualization",
-      "Narrative Pathway",
-      "Stories With Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Scrollytelling"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "VizFlow",
-    "Bibtex": null,
-    "Traceability": "Reference from reviewer",
-    "Link": "http://vizflow.cs.toronto.edu/reflow / https://doi.org/10.1145/3411764.3445354",
-    "Venue": "Conference on Human Factors in Computing Systems",
-    "Format/Published in": "Paper",
-    "Description": null,
-    "Abstract": null,
-    "Authors": null,
-    "Main Topics": null,
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Timeline",
-      "Map",
-      "Set",
-      "Graph",
-      "Chart",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Temporal Succession"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Timeline Visualization",
-      "Multi-timeline Visualization",
-      "Narrative Pathway",
-      "Mixed Pathway & Exploration",
-      "Stories With Multiple Visualizations",
-      "Pathways Through Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Annotated Chart",
-      "Slideshow"
-    ],
-    "Target Devices": [
-      "Static Display",
-      "Desktop / Touchscreen",
-      "Mobile Device",
-      "Large Display / Wall"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "Qlik Sense",
-    "Bibtex": null,
-    "Traceability": "Reference from reviewer",
-    "Link": "https://www.qlik.com/us/products/qlik-sense",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": null,
-    "Abstract": null,
-    "Authors": null,
-    "Main Topics": null,
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Timeline",
-      "Map",
-      "Set",
-      "Graph",
-      "Chart",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Temporal Succession"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Timeline Visualization",
-      "Multi-timeline Visualization",
-      "Narrative Pathway",
-      "Mixed Pathway & Exploration",
-      "Stories With Multiple Visualizations",
-      "Pathways Through Multiple Visualizations"
-    ],
-    "Interactive Implementation": [
-      "Annotated Chart",
-      "Animation",
-      "Slideshow"
-    ],
-    "Target Devices": [
-      "Static Display",
-      "Desktop / Touchscreen",
-      "Mobile Device",
-      "Large Display / Wall"
-    ],
-    "Entity-orientation": [],
-    "Story Complexity": [],
-    "Story Schemata": [],
-    "Plot Patterns": [],
-    "Story Arc & Hook": [],
-    "Linearity": [],
-    "Factuality": [],
-    "Other": [],
-    "Name/Title": "Tableau",
-    "Bibtex": null,
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://www.tableau.com/",
-    "Venue": "None",
-    "Format/Published in": "Web",
-    "Description": null,
-    "Abstract": null,
-    "Authors": null,
-    "Main Topics": null,
-    "DH": null,
-    "CH": null,
-    "Image": null
-  },
-  {
-    "Media Types": [
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
-    ],
-    "Visualization Types": [
-      "Map",
-      "Interaction"
-    ],
-    "Story Thread": [
-      "Text",
-      "Juxtaposition",
-      "Temporal Succession",
-      "Moving Camera"
-    ],
-    "Visualization-text Linking": [
-      "Visualization Annotations"
-    ],
-    "VBS Composition": [
-      "Rich Media Without Visualization",
-      "Narrative Pathway",
-      "Mixed Pathway & Exploration"
-    ],
-    "Interactive Implementation": [
-      "Slideshow + Moving Camera"
-    ],
-    "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
+      "Static Display"
     ],
     "Entity-orientation": [],
     "Story Complexity": [],
@@ -3885,38 +2855,37 @@
     "Authors": null,
     "Main Topics": null,
     "DH": null,
-    "CH": null,
+    "CH": "X",
     "Image": null
   },
   {
     "Media Types": [
-      "Text",
+      "Audio",
       "Images",
-      "Film",
       "Visualization"
     ],
     "Visualization Types": [
-      "Timeline",
-      "Map",
-      "Interaction"
+      "Chart",
+      "Rendering"
     ],
     "Story Thread": [
       "Text",
-      "Juxtaposition",
-      "Moving Camera"
+      "Speech",
+      "Juxtaposition"
     ],
     "Visualization-text Linking": [
-      "Visualization Annotations"
+      "In-text References"
     ],
     "VBS Composition": [
       "Timeline Visualization",
-      "Mixed Pathway & Exploration"
+      "Multi-timeline Visualization"
     ],
     "Interactive Implementation": [
-      "Moving Camera"
+      "Slideshow",
+      "Slideshow + Moving Camera"
     ],
     "Target Devices": [
-      "Desktop / Touchscreen"
+      "Static Display"
     ],
     "Entity-orientation": [],
     "Story Complexity": [],
@@ -3926,18 +2895,137 @@
     "Linearity": [],
     "Factuality": [],
     "Other": [],
-    "Name/Title": "Visualeyes",
+    "Name/Title": "Humap",
     "Bibtex": null,
-    "Traceability": "https://guides.temple.edu/c.php?g=425229&p=9365463",
-    "Link": "http://www.viseyes.org/visualeyes/",
-    "Venue": null,
-    "Format/Published in": null,
+    "Traceability": "Google: \"geospatial storytelling\"",
+    "Link": "https://humap.me/",
+    "Venue": "None",
+    "Format/Published in": "Web",
     "Description": null,
     "Abstract": null,
     "Authors": null,
     "Main Topics": null,
     "DH": null,
-    "CH": null,
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text",
+      "Images",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Timeline",
+      "Map",
+      "Set",
+      "Chart",
+      "Rendering"
+    ],
+    "Story Thread": [
+      "Text",
+      "Speech",
+      "Temporal Succession",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [
+      "In-text References",
+      "Visualization Legend",
+      "Coordinated Scrolling"
+    ],
+    "VBS Composition": [
+      "Timeline Visualization",
+      "Narrative Pathway"
+    ],
+    "Interactive Implementation": [
+      "Annotated Chart",
+      "Data Comic",
+      "Scrollytelling",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [
+      "Static Display"
+    ],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "Idyll Studio",
+    "Bibtex": null,
+    "Traceability": "Reference from reviewer",
+    "Link": "https://doi.org/10.1145/3472749.3474731",
+    "Venue": "Symposium on User Interface Software and Technology",
+    "Format/Published in": "Paper",
+    "Description": null,
+    "Abstract": null,
+    "Authors": null,
+    "Main Topics": null,
+    "DH": null,
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text",
+      "Images",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Timeline",
+      "Set",
+      "Chart",
+      "Rendering",
+      "Interaction"
+    ],
+    "Story Thread": [
+      "Juxtaposition",
+      "Temporal Succession",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [
+      "In-text References",
+      "Visualization Legend",
+      "Visualization Annotations"
+    ],
+    "VBS Composition": [
+      "Mixed Pathway & Exploration",
+      "Stories With Multiple Visualizations"
+    ],
+    "Interactive Implementation": [
+      "Moving Camera"
+    ],
+    "Target Devices": [
+      "Static Display",
+      "Desktop / Touchscreen",
+      "Virtual Reality"
+    ],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "InTaVia Story Creator",
+    "Bibtex": null,
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://intavia.acdh-dev.oeaw.ac.at/storycreator",
+    "Venue": null,
+    "Format/Published in": "Paper/Web",
+    "Description": null,
+    "Abstract": null,
+    "Authors": null,
+    "Main Topics": null,
+    "DH": "X",
+    "CH": "X",
     "Image": null
   },
   {
@@ -3952,32 +3040,30 @@
       "Timeline",
       "Map",
       "Set",
-      "Graph",
       "Chart",
-      "Interaction"
+      "Rendering"
     ],
     "Story Thread": [
       "Text",
-      "Juxtaposition",
-      "Temporal Succession"
+      "Speech",
+      "Moving Camera"
     ],
     "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
+      "In-text References",
+      "Coordinated Scrolling"
     ],
     "VBS Composition": [
-      "Rich Media Without Visualization",
+      "Timeline Visualization",
       "Narrative Pathway",
       "Stories With Multiple Visualizations"
     ],
     "Interactive Implementation": [
-      "Annotated Chart",
-      "Animation",
-      "Slideshow"
+      "Data Comic",
+      "Scrollytelling",
+      "Slideshow + Moving Camera"
     ],
     "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device"
+      "Static Display"
     ],
     "Entity-orientation": [],
     "Story Complexity": [],
@@ -3997,8 +3083,8 @@
     "Abstract": null,
     "Authors": null,
     "Main Topics": null,
-    "DH": null,
-    "CH": null,
+    "DH": "X",
+    "CH": "X",
     "Image": null
   },
   {
@@ -4013,9 +3099,110 @@
       "Timeline",
       "Map",
       "Set",
-      "Graph",
       "Chart",
-      "Interaction"
+      "Rendering"
+    ],
+    "Story Thread": [
+      "Speech",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
+    ],
+    "VBS Composition": [
+      "Rich Media Without Visualization",
+      "Timeline Visualization",
+      "Multi-timeline Visualization",
+      "Narrative Pathway",
+      "Mixed Pathway & Exploration",
+      "Stories With Multiple Visualizations"
+    ],
+    "Interactive Implementation": [
+      "Scrollytelling",
+      "Moving Camera",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "Microsoft Power BI",
+    "Bibtex": null,
+    "Traceability": "Reference from reviewer",
+    "Link": "https://powerbi.microsoft.com/",
+    "Venue": "None",
+    "Format/Published in": "Web",
+    "Description": null,
+    "Abstract": null,
+    "Authors": null,
+    "Main Topics": null,
+    "DH": "X",
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text"
+    ],
+    "Visualization Types": [
+      "Rendering"
+    ],
+    "Story Thread": [
+      "Speech"
+    ],
+    "Visualization-text Linking": [
+      "Coordinated Scrolling"
+    ],
+    "VBS Composition": [
+      "Timeline Visualization"
+    ],
+    "Interactive Implementation": [
+      "Scrollytelling",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [
+      "Static Display"
+    ],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "Narralive Story Maker ",
+    "Bibtex": null,
+    "Traceability": "ACM CHI, Emotive Project (https://www.emotiveproject.eu/pages/dissemination/index.html)",
+    "Link": "https://www.narralive.org/",
+    "Venue": "None",
+    "Format/Published in": "Web",
+    "Description": "A storyboard editor and mobile player app, developed with the objective to assist the creative process and promote research on different aspects of the application of mobile digital storytelling in cultural heritage settings.",
+    "Abstract": "None",
+    "Authors": "National and Kapodistrian University of Athens",
+    "Main Topics": "Storyborad creator and player",
+    "DH": "X",
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text",
+      "Images",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Set",
+      "Chart",
+      "Rendering"
     ],
     "Story Thread": [
       "Text",
@@ -4023,19 +3210,78 @@
       "Temporal Succession"
     ],
     "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
+      "In-text References",
+      "Coordinated Scrolling"
+    ],
+    "VBS Composition": [
+      "Timeline Visualization",
+      "Multi-timeline Visualization",
+      "Narrative Pathway"
+    ],
+    "Interactive Implementation": [
+      "Animation",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "Neatline",
+    "Bibtex": null,
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://neatline.org/",
+    "Venue": "None",
+    "Format/Published in": "Web",
+    "Description": null,
+    "Abstract": null,
+    "Authors": null,
+    "Main Topics": null,
+    "DH": "X",
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text",
+      "Images",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Timeline",
+      "Map",
+      "Set",
+      "Chart",
+      "Rendering"
+    ],
+    "Story Thread": [
+      "Speech",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
     ],
     "VBS Composition": [
       "Rich Media Without Visualization",
+      "Timeline Visualization",
+      "Multi-timeline Visualization",
       "Narrative Pathway",
+      "Mixed Pathway & Exploration",
       "Stories With Multiple Visualizations"
     ],
     "Interactive Implementation": [
-      "Data Comic",
-      "Animation"
+      "Scrollytelling",
+      "Moving Camera",
+      "Slideshow + Moving Camera"
     ],
     "Target Devices": [
+      "Static Display",
       "Desktop / Touchscreen"
     ],
     "Entity-orientation": [],
@@ -4046,53 +3292,102 @@
     "Linearity": [],
     "Factuality": [],
     "Other": [],
-    "Name/Title": "ToonNote",
+    "Name/Title": "Qlik Sense",
     "Bibtex": null,
-    "Traceability": "Proceedings of CHI",
-    "Link": "https://doi.org/10.1145/3411764.3445434",
-    "Venue": "Conference on Human Factors in Computing Systems",
-    "Format/Published in": "Paper",
+    "Traceability": "Reference from reviewer",
+    "Link": "https://www.qlik.com/us/products/qlik-sense",
+    "Venue": "None",
+    "Format/Published in": "Web",
     "Description": null,
     "Abstract": null,
     "Authors": null,
     "Main Topics": null,
     "DH": null,
-    "CH": null,
+    "CH": "X",
     "Image": null
   },
   {
     "Media Types": [
-      "Text",
-      "Images",
-      "Film",
-      "Visualization"
+      "Audio",
+      "Text"
     ],
     "Visualization Types": [
-      "Map",
-      "Chart",
-      "Interaction"
+      "Rendering"
     ],
     "Story Thread": [
       "Text",
-      "Juxtaposition",
-      "Temporal Succession"
+      "Juxtaposition"
     ],
     "Visualization-text Linking": [
+      "In-text References",
       "Visualization Legend",
-      "Visualization Annotations"
+      "Coordinated Scrolling"
     ],
     "VBS Composition": [
-      "Narrative Pathway",
-      "Mixed Pathway & Exploration",
-      "Stories With Multiple Visualizations"
+      "Timeline Visualization",
+      "Narrative Pathway"
     ],
     "Interactive Implementation": [
       "Annotated Chart",
-      "Slideshow"
+      "Animation",
+      "Slideshow + Moving Camera"
     ],
     "Target Devices": [
-      "Desktop / Touchscreen"
+      "Static Display"
     ],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "Shorthand",
+    "Bibtex": null,
+    "Traceability": "Google: \"content creation scrollytelling stories\"",
+    "Link": "https://shorthand.com/",
+    "Venue": "None",
+    "Format/Published in": "Web",
+    "Description": null,
+    "Abstract": null,
+    "Authors": null,
+    "Main Topics": null,
+    "DH": "X",
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text",
+      "Images",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Set",
+      "Chart",
+      "Rendering"
+    ],
+    "Story Thread": [
+      "Text",
+      "Speech",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
+    ],
+    "VBS Composition": [
+      "Timeline Visualization",
+      "Multi-timeline Visualization",
+      "Narrative Pathway",
+      "Stories With Multiple Visualizations"
+    ],
+    "Interactive Implementation": [
+      "Scrollytelling",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [],
     "Entity-orientation": [],
     "Story Complexity": [],
     "Story Schemata": [],
@@ -4112,31 +3407,142 @@
     "Authors": null,
     "Main Topics": null,
     "DH": null,
-    "CH": null,
+    "CH": "X",
     "Image": null
   },
   {
     "Media Types": [
+      "Images"
+    ],
+    "Visualization Types": [
+      "Set",
+      "Chart",
+      "Rendering"
+    ],
+    "Story Thread": [
+      "Text",
+      "Speech"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
+    ],
+    "VBS Composition": [
+      "Timeline Visualization",
+      "Stories With Multiple Visualizations"
+    ],
+    "Interactive Implementation": [
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "StorylineJS",
+    "Bibtex": null,
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://storyline.knightlab.com/",
+    "Venue": "None",
+    "Format/Published in": "Web",
+    "Description": null,
+    "Abstract": null,
+    "Authors": null,
+    "Main Topics": null,
+    "DH": null,
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
       "Text",
       "Images",
       "Visualization"
     ],
     "Visualization Types": [
-      "Chart"
+      "Chart",
+      "Rendering"
     ],
     "Story Thread": [
       "Text",
-      "Temporal Succession"
+      "Juxtaposition",
+      "Moving Camera"
     ],
     "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
+      "In-text References",
+      "Coordinated Scrolling"
     ],
     "VBS Composition": [
-      "Narrative Pathway"
+      "Timeline Visualization",
+      "Multi-timeline Visualization"
     ],
     "Interactive Implementation": [
-      "Animation"
+      "Slideshow",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [
+      "Static Display"
+    ],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "StoryMapJS",
+    "Bibtex": null,
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://storymap.knightlab.com/?",
+    "Venue": "None",
+    "Format/Published in": "Web",
+    "Description": null,
+    "Abstract": null,
+    "Authors": null,
+    "Main Topics": null,
+    "DH": "X",
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Images",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Timeline",
+      "Map",
+      "Set",
+      "Chart",
+      "Rendering"
+    ],
+    "Story Thread": [
+      "Speech",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
+    ],
+    "VBS Composition": [
+      "Rich Media Without Visualization",
+      "Timeline Visualization",
+      "Multi-timeline Visualization",
+      "Narrative Pathway",
+      "Mixed Pathway & Exploration",
+      "Stories With Multiple Visualizations"
+    ],
+    "Interactive Implementation": [
+      "Data Comic",
+      "Scrollytelling",
+      "Moving Camera",
+      "Slideshow + Moving Camera"
     ],
     "Target Devices": [
       "Static Display",
@@ -4150,51 +3556,192 @@
     "Linearity": [],
     "Factuality": [],
     "Other": [],
-    "Name/Title": "ChartAccent",
+    "Name/Title": "Tableau",
     "Bibtex": null,
-    "Traceability": "From Zhao & Elmqvist paper",
-    "Link": "https://chartaccent.github.io/#section-publication",
-    "Venue": null,
-    "Format/Published in": "Paper/Web",
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://www.tableau.com/",
+    "Venue": "None",
+    "Format/Published in": "Web",
     "Description": null,
     "Abstract": null,
     "Authors": null,
     "Main Topics": null,
     "DH": null,
-    "CH": null,
+    "CH": "X",
     "Image": null
   },
   {
     "Media Types": [
+      "Audio",
       "Text",
       "Images",
+      "Film",
       "Visualization"
     ],
     "Visualization Types": [
-      "Timeline",
-      "Set",
-      "Interaction"
+      "Chart",
+      "Rendering"
     ],
     "Story Thread": [
-      "Temporal Succession"
+      "Text",
+      "Speech",
+      "Juxtaposition",
+      "Moving Camera"
     ],
     "Visualization-text Linking": [
-      "Visualization Legend",
-      "Visualization Annotations"
+      "In-text References"
     ],
     "VBS Composition": [
       "Timeline Visualization",
-      "Multi-timeline Visualization",
-      "Narrative Pathway",
-      "Pathways Through Multiple Visualizations"
+      "Multi-timeline Visualization"
+    ],
+    "Interactive Implementation": [
+      "Slideshow",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "The Story Map Building and Visualization Tool (SMBVT)",
+    "Bibtex": null,
+    "Traceability": "Via the Mingei-Project",
+    "Link": "https://tool.dlnarratives.eu/ / https://github.com/EmanueleLenzi92/SMBVT",
+    "Venue": "None",
+    "Format/Published in": "Web",
+    "Description": "SMBVT is semi-automatic tool to construct and visualise narratives, intended as semantic networks of events related to each other through semantic relations, in form of story maps and timeline.",
+    "Abstract": "None",
+    "Authors": "Valentina Bartalesi, Nicol\u00f2 Pratelli, Emanuele Lenzi",
+    "Main Topics": "TODO",
+    "DH": null,
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text"
+    ],
+    "Visualization Types": [
+      "Interaction"
+    ],
+    "Story Thread": [
+      "Speech"
+    ],
+    "Visualization-text Linking": [
+      "Coordinated Scrolling"
+    ],
+    "VBS Composition": [
+      "Multi-timeline Visualization"
     ],
     "Interactive Implementation": [
       "Animation",
-      "Slideshow"
+      "Slideshow + Moving Camera"
     ],
     "Target Devices": [
-      "Desktop / Touchscreen"
+      "Large Display / Wall"
     ],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "Thinglink",
+    "Bibtex": null,
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://www.thinglink.com/",
+    "Venue": "None",
+    "Format/Published in": "Web",
+    "Description": "A tool for creating virtual tours and scenarios",
+    "Abstract": "None",
+    "Authors": "None",
+    "Main Topics": "TODO",
+    "DH": "X",
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Images",
+      "Film"
+    ],
+    "Visualization Types": [
+      "Chart",
+      "Rendering"
+    ],
+    "Story Thread": [
+      "Speech"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
+    ],
+    "VBS Composition": [
+      "Multi-timeline Visualization"
+    ],
+    "Interactive Implementation": [
+      "Animation",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "Tiki-Toki",
+    "Bibtex": null,
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://www.tiki-toki.com",
+    "Venue": "None",
+    "Format/Published in": "Web",
+    "Description": "Online tool for the creation of interactive 2D and 3D timelines",
+    "Abstract": "None",
+    "Authors": "None",
+    "Main Topics": "TODO",
+    "DH": null,
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Images",
+      "Film"
+    ],
+    "Visualization Types": [
+      "Timeline",
+      "Chart"
+    ],
+    "Story Thread": [
+      "Speech",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
+    ],
+    "VBS Composition": [
+      "Rich Media Without Visualization",
+      "Timeline Visualization",
+      "Mixed Pathway & Exploration"
+    ],
+    "Interactive Implementation": [
+      "Data Comic",
+      "Scrollytelling",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [],
     "Entity-orientation": [],
     "Story Complexity": [],
     "Story Schemata": [],
@@ -4214,7 +3761,113 @@
     "Authors": null,
     "Main Topics": null,
     "DH": null,
-    "CH": null,
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text",
+      "Images",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Chart",
+      "Rendering"
+    ],
+    "Story Thread": [
+      "Text",
+      "Speech",
+      "Moving Camera"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
+    ],
+    "VBS Composition": [
+      "Timeline Visualization"
+    ],
+    "Interactive Implementation": [
+      "Scrollytelling",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [
+      "Static Display"
+    ],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "TimelineJS",
+    "Bibtex": null,
+    "Traceability": "Author team prior knowlegde",
+    "Link": "https://timeline.knightlab.com/",
+    "Venue": "None",
+    "Format/Published in": "Web",
+    "Description": null,
+    "Abstract": null,
+    "Authors": null,
+    "Main Topics": null,
+    "DH": "X",
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Images",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Chart",
+      "Rendering"
+    ],
+    "Story Thread": [
+      "Text",
+      "Speech",
+      "Juxtaposition",
+      "Temporal Succession"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
+    ],
+    "VBS Composition": [
+      "Timeline Visualization",
+      "Multi-timeline Visualization"
+    ],
+    "Interactive Implementation": [
+      "Scrollytelling",
+      "Slideshow",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [
+      "Static Display"
+    ],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "TimeMapper",
+    "Bibtex": null,
+    "Traceability": "Via Knight Lab",
+    "Link": "http://timemapper.okfnlabs.org",
+    "Venue": "None",
+    "Format/Published in": "Web",
+    "Description": null,
+    "Abstract": null,
+    "Authors": null,
+    "Main Topics": null,
+    "DH": null,
+    "CH": "X",
     "Image": null
   },
   {
@@ -4228,32 +3881,124 @@
     "Visualization Types": [
       "Timeline",
       "Map",
-      "Graph",
-      "Rendering",
-      "Interaction"
+      "Set",
+      "Chart",
+      "Rendering"
     ],
     "Story Thread": [
       "Text",
-      "Temporal Succession",
+      "Speech",
       "Moving Camera"
     ],
     "Visualization-text Linking": [
       "In-text References",
-      "Visualization Legend",
-      "Visualization Annotations",
       "Coordinated Scrolling"
     ],
     "VBS Composition": [
-      "Stories With Multiple Visualizations",
+      "Timeline Visualization",
+      "Narrative Pathway",
       "Pathways Through Multiple Visualizations"
     ],
     "Interactive Implementation": [
+      "Data Comic",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "ToonNote",
+    "Bibtex": null,
+    "Traceability": "Proceedings of CHI",
+    "Link": "https://doi.org/10.1145/3411764.3445434",
+    "Venue": "Conference on Human Factors in Computing Systems",
+    "Format/Published in": "Paper",
+    "Description": null,
+    "Abstract": null,
+    "Authors": null,
+    "Main Topics": null,
+    "DH": "X",
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text",
+      "Images",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Chart",
+      "Rendering"
+    ],
+    "Story Thread": [
+      "Text",
+      "Juxtaposition"
+    ],
+    "Visualization-text Linking": [
+      "In-text References"
+    ],
+    "VBS Composition": [
+      "Multi-timeline Visualization"
+    ],
+    "Interactive Implementation": [
+      "Animation",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "Visualeyes",
+    "Bibtex": null,
+    "Traceability": "https://guides.temple.edu/c.php?g=425229&p=9365463",
+    "Link": "http://www.viseyes.org/visualeyes/",
+    "Venue": null,
+    "Format/Published in": null,
+    "Description": null,
+    "Abstract": null,
+    "Authors": null,
+    "Main Topics": null,
+    "DH": null,
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text"
+    ],
+    "Visualization Types": [
+      "Rendering"
+    ],
+    "Story Thread": [],
+    "Visualization-text Linking": [
+      "In-text References",
+      "Visualization Legend",
+      "Coordinated Scrolling"
+    ],
+    "VBS Composition": [
+      "Timeline Visualization",
+      "Narrative Pathway"
+    ],
+    "Interactive Implementation": [
+      "Annotated Chart",
       "Slideshow + Moving Camera"
     ],
     "Target Devices": [
-      "Desktop / Touchscreen",
-      "Mobile Device",
-      "Augmented / Mixed Reality"
+      "Static Display"
     ],
     "Entity-orientation": [],
     "Story Complexity": [],
@@ -4263,17 +4008,74 @@
     "Linearity": [],
     "Factuality": [],
     "Other": [],
-    "Name/Title": "InTaVia Story Creator",
+    "Name/Title": "VizFlow",
     "Bibtex": null,
-    "Traceability": "Author team prior knowlegde",
-    "Link": "https://intavia.acdh-dev.oeaw.ac.at/storycreator",
-    "Venue": null,
-    "Format/Published in": "Paper/Web",
+    "Traceability": "Reference from reviewer",
+    "Link": "http://vizflow.cs.toronto.edu/reflow / https://doi.org/10.1145/3411764.3445354",
+    "Venue": "Conference on Human Factors in Computing Systems",
+    "Format/Published in": "Paper",
     "Description": null,
     "Abstract": null,
-    "Authors": "Liem, Johannes and Kusnick, Jakob and Beck, Samuel and Windhager, Florian and Mayr, Eva",
+    "Authors": null,
     "Main Topics": null,
     "DH": null,
+    "CH": "X",
+    "Image": null
+  },
+  {
+    "Media Types": [
+      "Audio",
+      "Text",
+      "Images",
+      "Film",
+      "Visualization"
+    ],
+    "Visualization Types": [
+      "Timeline",
+      "Map",
+      "Set",
+      "Interaction"
+    ],
+    "Story Thread": [
+      "Speech",
+      "Juxtaposition"
+    ],
+    "Visualization-text Linking": [
+      "Coordinated Scrolling"
+    ],
+    "VBS Composition": [
+      "Timeline Visualization",
+      "Narrative Pathway"
+    ],
+    "Interactive Implementation": [
+      "Data Comic",
+      "Animation",
+      "Slideshow + Moving Camera"
+    ],
+    "Target Devices": [
+      "Static Display",
+      "Desktop / Touchscreen",
+      "Multi-touch / Table"
+    ],
+    "Entity-orientation": [],
+    "Story Complexity": [],
+    "Story Schemata": [],
+    "Plot Patterns": [],
+    "Story Arc & Hook": [],
+    "Linearity": [],
+    "Factuality": [],
+    "Other": [],
+    "Name/Title": "Vizrt",
+    "Bibtex": null,
+    "Traceability": "Reference from reviewer",
+    "Link": "https://www.vizrt.com/",
+    "Venue": "None",
+    "Format/Published in": "Web",
+    "Description": "A tool for augmented reality visual storytelling",
+    "Abstract": "None",
+    "Authors": "Vizrt",
+    "Main Topics": "Augmented reality",
+    "DH": "X",
     "CH": "X",
     "Image": null
   }
