@@ -56,12 +56,18 @@ export function Overlay(props: Props) {
         </Typography>
         <Typography>{paper.Authors}</Typography>
         <Typography>{paper.Venue}</Typography>
+        <Typography>
+          <a href={paper.Link} target="_blank">
+            {paper.Link}
+          </a>
+        </Typography>
         <div
           style={{
             display: "grid",
-            gridTemplateColumns: "20vw 20vw",
-            /* gridTemplateRows: "200px", */
+            gridTemplateColumns: "20vw 30vw",
+            gridTemplateRows: "auto auto",
             gap: "15px",
+            marginTop: "10px",
           }}
         >
           {paper.Image && (
@@ -70,14 +76,14 @@ export function Overlay(props: Props) {
               style={{ width: "100%" }}
             />
           )}
-          {paper.Description && paper.Description !== "None" && (
-            <Typography className={classes.description}>
-              {paper.Description}
-            </Typography>
-          )}
           {paper.Abstract && paper.Abstract !== "None" && (
             <Typography className={classes.description}>
               {paper.Abstract}
+            </Typography>
+          )}
+          {paper.Description && paper.Description !== "None" && (
+            <Typography className={classes.description}>
+              {paper.Description}
             </Typography>
           )}
         </div>

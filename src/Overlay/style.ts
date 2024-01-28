@@ -13,9 +13,11 @@ export const useStyles = makeStyles((theme: Theme) =>
       transform: "translate(-50%, -50%)",
       backgroundColor: "white",
       border: "2px solid #000",
+      maxHeight: "90%",
+      overflowY: "scroll",
     },
     description: {
-      height: "200px",
+      maxHeight: "200px",
       overflow: "hidden",
       overflowY: "scroll",
     },
